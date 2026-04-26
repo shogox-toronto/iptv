@@ -1,0 +1,175 @@
+#EXTM3U
+
+# ===== USA | East Coast - New York =====
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC 7 WABC New York (East)" tvg-logo="https://logo.m3uassets.com/abc7.png" group-title="USA | East Coast - New York",ABC 7 WABC New York (East)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/27211
+#EXTINF:-1 tvg-id="WNBC.us" tvg-name="NBC 4 WNBC New York (East)" tvg-logo="https://logo.m3uassets.com/nbc.png" group-title="USA | East Coast - New York",NBC 4 WNBC New York (East)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200151366
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBS 2 WCBS New York (East)" tvg-logo="https://logo.m3uassets.com/cbs.png" group-title="USA | East Coast - New York",CBS 2 WCBS New York (East)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200151231
+#EXTINF:-1 tvg-id="WNYW.us" tvg-name="FOX 5 WNYW New York (East)" tvg-logo="https://logo.m3uassets.com/newyorkfox5.png" group-title="USA | East Coast - New York",FOX 5 WNYW New York (East)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200168381
+#EXTINF:-1 tvg-id="HBOEast.us" tvg-name="HBO East (US)" group-title="USA | East Coast - New York",HBO East (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/500304610
+#EXTINF:-1 tvg-id="HBOEast.us" tvg-name="HBO East (US) Backup 2" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="USA | East Coast - New York",HBO East (US) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400124917
+
+# ===== USA | Central - Chicago / Dallas =====
+#EXTINF:-1 tvg-id="WLS.us" tvg-name="ABC 7 WLS Chicago (Central)" group-title="USA | Central - Chicago / Dallas",ABC 7 WLS Chicago (Central)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/700020462
+#EXTINF:-1 tvg-id="WMAQ.us" tvg-name="NBC 5 WMAQ Chicago (Central)" tvg-logo="https://logo.m3uassets.com/chicagonbc5.png" group-title="USA | Central - Chicago / Dallas",NBC 5 WMAQ Chicago (Central)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/131522
+#EXTINF:-1 tvg-id="WBBM.us" tvg-name="CBS 2 WBBM Chicago (Central)" tvg-logo="https://logo.m3uassets.com/chicagocbs2.png" group-title="USA | Central - Chicago / Dallas",CBS 2 WBBM Chicago (Central)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/131520
+#EXTINF:-1 tvg-id="WFLD.us" tvg-name="FOX 32 Chicago (Central)" group-title="USA | Central - Chicago / Dallas",FOX 32 Chicago (Central)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/158047
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO Central (US)" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="USA | Central - Chicago / Dallas",HBO Central (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/600001304
+
+# ===== USA | West Coast - Los Angeles =====
+#EXTINF:-1 tvg-id="KABC.us" tvg-name="ABC 7 KABC Los Angeles (West)" tvg-logo="https://logo.m3uassets.com/losangelesabc7.png" group-title="USA | West Coast - Los Angeles",ABC 7 KABC Los Angeles (West)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200168301
+#EXTINF:-1 tvg-id="KNBC.us" tvg-name="NBC 4 KNBC Los Angeles (West)" tvg-logo="https://logo.m3uassets.com/nbclosangelescaknbc.png" group-title="USA | West Coast - Los Angeles",NBC 4 KNBC Los Angeles (West)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/600019170
+#EXTINF:-1 tvg-id="KCBS.us" tvg-name="CBS 2 KCBS Los Angeles (West)" tvg-logo="https://logo.m3uassets.com/cbs2losangeles.png" group-title="USA | West Coast - Los Angeles",CBS 2 KCBS Los Angeles (West)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200168433
+#EXTINF:-1 tvg-id="KTTV.us" tvg-name="FOX 11 KTTV Los Angeles (West)" tvg-logo="https://logo.m3uassets.com/losangelesfox11.png" group-title="USA | West Coast - Los Angeles",FOX 11 KTTV Los Angeles (West)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200168380
+#EXTINF:-1 tvg-id="HBOWest.us" tvg-name="HBO West (US)" group-title="USA | West Coast - Los Angeles",HBO West (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/500006383
+#EXTINF:-1 tvg-id="HBOWest.us" tvg-name="HBO West (US) Backup 2" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="USA | West Coast - Los Angeles",HBO West (US) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200170287
+
+# ===== Canada | East - Toronto / Montreal =====
+#EXTINF:-1 tvg-id="CBLT.ca" tvg-name="CBC Toronto (East)" tvg-logo="https://logo.m3uassets.com/cbc.png" group-title="Canada | East - Toronto / Montreal",CBC Toronto (East)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200158257
+#EXTINF:-1 tvg-id="CFTO.ca" tvg-name="CTV Toronto (East)" tvg-logo="https://logo.m3uassets.com/ctvtoronto.png" group-title="Canada | East - Toronto / Montreal",CTV Toronto (East)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400113801
+#EXTINF:-1 tvg-id="CIII.ca" tvg-name="Global Toronto (East)" tvg-logo="https://logo.m3uassets.com/globaltoronto.png" group-title="Canada | East - Toronto / Montreal",Global Toronto (East)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400113849
+#EXTINF:-1 tvg-id="CITY.ca" tvg-name="Citytv Toronto (East)" tvg-logo="https://logo.m3uassets.com/citytvtoronto.png" group-title="Canada | East - Toronto / Montreal",Citytv Toronto (East)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400113789
+#EXTINF:-1 tvg-id="CP24.ca" tvg-name="CP24 Toronto (East)" tvg-logo="https://logo.m3uassets.com/cp24.png" group-title="Canada | East - Toronto / Montreal",CP24 Toronto (East)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200158285
+
+# ===== Canada | Central - Winnipeg / Saskatchewan =====
+
+# ===== Canada | West - Vancouver / Calgary =====
+#EXTINF:-1 tvg-id="CBUT.ca" tvg-name="CBC Vancouver (West)" tvg-logo="https://logo.m3uassets.com/cbcvancouver.png" group-title="Canada | West - Vancouver / Calgary",CBC Vancouver (West)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400113785
+#EXTINF:-1 tvg-id="CIVT.ca" tvg-name="CTV Vancouver (West)" tvg-logo="https://logo.m3uassets.com/ctv2vancouver.png" group-title="Canada | West - Vancouver / Calgary",CTV Vancouver (West)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200158307
+#EXTINF:-1 tvg-id="CKVU.ca" tvg-name="Citytv Vancouver (West)" tvg-logo="https://logo.m3uassets.com/citytvvancouver.png" group-title="Canada | West - Vancouver / Calgary",Citytv Vancouver (West)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200158279
+
+# ===== New York | Specialty =====
+#EXTINF:-1 tvg-id="NY1.us" tvg-name="Spectrum News NY1 (New York)" tvg-logo="https://logo.m3uassets.com/spectrumnewsny1.png" group-title="New York | Specialty",Spectrum News NY1 (New York)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/140529
+#EXTINF:-1 tvg-id="NY1.us" tvg-name="Spectrum News NY1 (New York) Backup 2" tvg-logo="https://logo.m3uassets.com/spectrumnewsny1.png" group-title="New York | Specialty",Spectrum News NY1 (New York) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/140585
+#EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network (Yankees)" tvg-logo="https://logo.m3uassets.com/yesnetwork.png" group-title="New York | Specialty",YES Network (Yankees)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400125112
+#EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network (Yankees) Backup 2" tvg-logo="https://logo.m3uassets.com/yesnetwork.png" group-title="New York | Specialty",YES Network (Yankees) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200155102
+#EXTINF:-1 tvg-id="SNY.us" tvg-name="SportsNet New York SNY" tvg-logo="https://logo.m3uassets.com/sportsnetnewyork.png" group-title="New York | Specialty",SportsNet New York SNY
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400125098
+#EXTINF:-1 tvg-id="SNY.us" tvg-name="SportsNet New York SNY Backup 2" tvg-logo="https://logo.m3uassets.com/sportsnetnewyork.png" group-title="New York | Specialty",SportsNet New York SNY Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/77262
+
+# ===== 24/7 | Jurassic Park =====
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic Park 24/7 (English)" group-title="24/7 | Jurassic Park",Jurassic Park 24/7 (English)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/800000090
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic Park 24/7 (English) Backup 2" tvg-logo="https://logo.m3uassets.com/247jurassicpark.png" group-title="24/7 | Jurassic Park",Jurassic Park 24/7 (English) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/800000600
+
+# ===== UK | Essentials =====
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One (UK)" tvg-logo="https://logo.m3uassets.com/bbcone.png" group-title="UK | Essentials",BBC One (UK)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400117544
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two (UK)" tvg-logo="https://logo.m3uassets.com/bbctwo.png" group-title="UK | Essentials",BBC Two (UK)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400117547
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="ITV 1 (UK)" tvg-logo="https://logo.m3uassets.com/itv1.png" group-title="UK | Essentials",ITV 1 (UK)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200159643
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 (UK)" tvg-logo="https://logo.m3uassets.com/channel4.png" group-title="UK | Essentials",Channel 4 (UK)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400117557
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5 (UK)" tvg-logo="https://logo.m3uassets.com/channel5.png" group-title="UK | Essentials",Channel 5 (UK)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400117562
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event (UK)" tvg-logo="https://logo.m3uassets.com/skysportsmainevent.png" group-title="UK | Essentials",Sky Sports Main Event (UK)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400117918
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League (UK)" tvg-logo="https://logo.m3uassets.com/skysportspremierleague.png" group-title="UK | Essentials",Sky Sports Premier League (UK)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400117922
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News (UK)" tvg-logo="https://logo.m3uassets.com/skysportsnews.png" group-title="UK | Essentials",Sky Sports News (UK)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400117915
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News (UK)" tvg-logo="https://logo.m3uassets.com/bbcnews.png" group-title="UK | Essentials",BBC News (UK)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400117832
+
+# ===== USA | National Essentials =====
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2 (US)" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="USA | National Essentials",ESPN2 (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400125040
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN (US)" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="USA | National Essentials",CNN (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200158281
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="FOX News (US)" tvg-logo="https://logo.m3uassets.com/foxnews.png" group-title="USA | National Essentials",FOX News (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200158325
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC (US)" tvg-logo="https://logo.m3uassets.com/msnbc.png" group-title="USA | National Essentials",MSNBC (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400124882
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT (US)" tvg-logo="https://logo.m3uassets.com/tnt.png" group-title="USA | National Essentials",TNT (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400124822
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS (US)" tvg-logo="https://logo.m3uassets.com/tbs.png" group-title="USA | National Essentials",TBS (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400124815
+
+# ===== All: Canada Sports =====
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4 (CA)" tvg-logo="https://logo.m3uassets.com/tsn.png" group-title="All: Canada Sports",TSN 4 (CA)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200256024
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="Sportsnet East (CA)" tvg-logo="https://logo.m3uassets.com/sportsnet.png" group-title="All: Canada Sports",Sportsnet East (CA)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200158435
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="Sportsnet East (CA) Backup 2" tvg-logo="https://logo.m3uassets.com/sportsnet.png" group-title="All: Canada Sports",Sportsnet East (CA) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/73961
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="Sportsnet Ontario (CA)" tvg-logo="https://logo.m3uassets.com/sportsnetontario.png" group-title="All: Canada Sports",Sportsnet Ontario (CA)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400392252
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="Sportsnet Ontario (CA) Backup 2" tvg-logo="https://logo.m3uassets.com/sportsnetontario.png" group-title="All: Canada Sports",Sportsnet Ontario (CA) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400392253
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="Sportsnet West (CA)" tvg-logo="https://logo.m3uassets.com/sportsnetwest.png" group-title="All: Canada Sports",Sportsnet West (CA)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200158434
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="Sportsnet West (CA) Backup 2" tvg-logo="https://logo.m3uassets.com/sportsnetwest.png" group-title="All: Canada Sports",Sportsnet West (CA) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/73958
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="Sportsnet Pacific (CA)" tvg-logo="https://logo.m3uassets.com/sportsnetpacific.png" group-title="All: Canada Sports",Sportsnet Pacific (CA)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/73957
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="Sportsnet Pacific (CA) Backup 2" tvg-logo="https://logo.m3uassets.com/sportsnetpacific.png" group-title="All: Canada Sports",Sportsnet Pacific (CA) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/700001282
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="Sportsnet One (CA)" tvg-logo="https://logo.m3uassets.com/sportsnetone.png" group-title="All: Canada Sports",Sportsnet One (CA)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200158436
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="Sportsnet One (CA) Backup 2" tvg-logo="https://logo.m3uassets.com/sportsnetone.png" group-title="All: Canada Sports",Sportsnet One (CA) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200256023
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="Sportsnet 360 (CA)" tvg-logo="https://logo.m3uassets.com/sportsnet360.png" group-title="All: Canada Sports",Sportsnet 360 (CA)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200158437
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="Sportsnet 360 (CA) Backup 2" tvg-logo="https://logo.m3uassets.com/sportsnet360.png" group-title="All: Canada Sports",Sportsnet 360 (CA) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/73960
+
+# ===== All: MLB =====
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network (US)" tvg-logo="https://logo.m3uassets.com/mlbnetwork.png" group-title="All: MLB",MLB Network (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400124980
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network (US) Backup 2" tvg-logo="https://logo.m3uassets.com/mlbnetwork.png" group-title="All: MLB",MLB Network (US) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200163466
+#EXTINF:-1 tvg-id="MLBStrikeZone.us" tvg-name="MLB Strike Zone (US)" tvg-logo="https://logo.m3uassets.com/mlbstrikezone.png" group-title="All: MLB",MLB Strike Zone (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/125409
+#EXTINF:-1 tvg-id="NESN.us" tvg-name="NESN - Red Sox (US)" tvg-logo="https://logo.m3uassets.com/nesn.png" group-title="All: MLB",NESN - Red Sox (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200151368
+#EXTINF:-1 tvg-id="NESN.us" tvg-name="NESN - Red Sox (US) Backup 2" tvg-logo="https://logo.m3uassets.com/nesn.png" group-title="All: MLB",NESN - Red Sox (US) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400125079
+#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us" tvg-name="Marquee Sports Network - Cubs (US)" tvg-logo="https://logo.m3uassets.com/marqueesportsnetwork.png" group-title="All: MLB",Marquee Sports Network - Cubs (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200166108
+#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us" tvg-name="Marquee Sports Network - Cubs (US) Backup 2" group-title="All: MLB",Marquee Sports Network - Cubs (US) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/105645
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area - Giants/A's (US)" tvg-logo="https://logo.m3uassets.com/nbcsportsbayarea.png" group-title="All: MLB",NBC Sports Bay Area - Giants/A's (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/600001248
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area - Giants/A's (US) Backup 2" tvg-logo="https://logo.m3uassets.com/nbcsportsbayarea.png" group-title="All: MLB",NBC Sports Bay Area - Giants/A's (US) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200151359
+#EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-name="NBC Sports California - A's/Giants (US)" tvg-logo="https://logo.m3uassets.com/nbcsportscalifornia.png" group-title="All: MLB",NBC Sports California - A's/Giants (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200151361
+#EXTINF:-1 tvg-id="MASN.us" tvg-name="MASN - Orioles/Nationals (US)" tvg-logo="https://logo.m3uassets.com/masn.png" group-title="All: MLB",MASN - Orioles/Nationals (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200155402
+#EXTINF:-1 tvg-id="MASN.us" tvg-name="MASN - Orioles/Nationals (US) Backup 2" tvg-logo="https://logo.m3uassets.com/masn2.png" group-title="All: MLB",MASN - Orioles/Nationals (US) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200155403
+#EXTINF:-1 tvg-id="SportsNetLA.us" tvg-name="SportsNet LA - Dodgers (US)" tvg-logo="https://logo.m3uassets.com/spectrumsportsnetla.png" group-title="All: MLB",SportsNet LA - Dodgers (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400125095
+#EXTINF:-1 tvg-id="SportsNetLA.us" tvg-name="SportsNet LA - Dodgers (US) Backup 2" tvg-logo="https://logo.m3uassets.com/spectrumsportsnetla.png" group-title="All: MLB",SportsNet LA - Dodgers (US) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200151410
