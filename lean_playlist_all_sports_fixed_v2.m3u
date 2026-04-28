@@ -562,51 +562,416 @@ https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200155102
 #EXTINF:-1 tvg-id="" tvg-name="MLB 17 |" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="MLB Baseball league",MLB 17 |
 #EXTINF:-1 tvg-id="" tvg-name="MLB 18:" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="MLB Baseball league",MLB 18:
 #EXTINF:-1 tvg-id="mlbnet.us" tvg-name="US MLB Network (S)" tvg-logo="https://logo.m3uassets.com/mlbnetwork.png" group-title="MLB Baseball league",US MLB Network (S)
-#EXTINF:-1 tvg-id="" tvg-name="MLB 01: Tampa Bay Rays @ Cleveland Guardians | Home Stream | 6:10 PM ET" tvg-logo="" group-title="MLB Baseball league",MLB 01: Tampa Bay Rays @ Cleveland Guardians | Home Stream | 6:10 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 15: Detroit Tigers @ Atlanta Braves | Home Stream | 7:15 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="MLB Baseball league",MLB 15: Detroit Tigers @ Atlanta Braves | Home Stream | 7:15 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 02: Tampa Bay Rays @ Cleveland Guardians | Away Stream | 6:10 PM ET" tvg-logo="https://logo.m3uassets.com/mlb02.png" group-title="MLB Baseball league",MLB 02: Tampa Bay Rays @ Cleveland Guardians | Away Stream | 6:10 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 04: Houston Astros @ Baltimore Orioles | Away Stream | 6:35 PM ET" tvg-logo="https://logo.m3uassets.com/mlb04.png" group-title="MLB Baseball league",MLB 04: Houston Astros @ Baltimore Orioles | Away Stream | 6:35 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 03: Houston Astros @ Baltimore Orioles | Home Stream | 6:35 PM ET" tvg-logo="https://logo.m3uassets.com/mlb03.png" group-title="MLB Baseball league",MLB 03: Houston Astros @ Baltimore Orioles | Home Stream | 6:35 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 09: San Francisco Giants @ Philadelphia Phillies | Home Stream | 6:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb09.png" group-title="MLB Baseball league",MLB 09: San Francisco Giants @ Philadelphia Phillies | Home Stream | 6:40 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 07: St. Louis Cardinals @ Pittsburgh Pirates | Home Stream | 6:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb07.png" group-title="MLB Baseball league",MLB 07: St. Louis Cardinals @ Pittsburgh Pirates | Home Stream | 6:40 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 11: Boston Red Sox @ Toronto Blue Jays | Home Stream | 7:07 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="MLB Baseball league",MLB 11: Boston Red Sox @ Toronto Blue Jays | Home Stream | 7:07 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 10: San Francisco Giants @ Philadelphia Phillies | Away Stream | 6:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="MLB Baseball league",MLB 10: San Francisco Giants @ Philadelphia Phillies | Away Stream | 6:40 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 05: Colorado Rockies @ Cincinnati Reds | Home Stream | 6:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb05.png" group-title="MLB Baseball league",MLB 05: Colorado Rockies @ Cincinnati Reds | Home Stream | 6:40 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 06: Colorado Rockies @ Cincinnati Reds | Away Stream | 6:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb06.png" group-title="MLB Baseball league",MLB 06: Colorado Rockies @ Cincinnati Reds | Away Stream | 6:40 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 08: St. Louis Cardinals @ Pittsburgh Pirates | Away Stream | 6:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb08.png" group-title="MLB Baseball league",MLB 08: St. Louis Cardinals @ Pittsburgh Pirates | Away Stream | 6:40 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 14: Washington Nationals @ New York Mets | Away Stream | 7:10 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="MLB Baseball league",MLB 14: Washington Nationals @ New York Mets | Away Stream | 7:10 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 12: Boston Red Sox @ Toronto Blue Jays | Away Stream | 7:07 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="MLB Baseball league",MLB 12: Boston Red Sox @ Toronto Blue Jays | Away Stream | 7:07 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 19: Los Angeles Angels @ Chicago White Sox | Home Stream | 7:40 PM ET" tvg-logo="" group-title="MLB Baseball league",MLB 19: Los Angeles Angels @ Chicago White Sox | Home Stream | 7:40 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 16: Detroit Tigers @ Atlanta Braves | Away Stream | 7:15 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="MLB Baseball league",MLB 16: Detroit Tigers @ Atlanta Braves | Away Stream | 7:15 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 13: Washington Nationals @ New York Mets | Home Stream | 7:10 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="MLB Baseball league",MLB 13: Washington Nationals @ New York Mets | Home Stream | 7:10 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 17: Seattle Mariners @ Minnesota Twins | Home Stream | 7:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="MLB Baseball league",MLB 17: Seattle Mariners @ Minnesota Twins | Home Stream | 7:40 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 05: Boston Red Sox vs Toronto Blue Jays | Tue 28th Apr 7:07 PM ET" tvg-logo="" group-title="MLB Baseball league",MLB 05: Boston Red Sox vs Toronto Blue Jays | Tue 28th Apr 7:07 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 20: Los Angeles Angels @ Chicago White Sox | Away Stream | 7:40 PM ET" tvg-logo="" group-title="MLB Baseball league",MLB 20: Los Angeles Angels @ Chicago White Sox | Away Stream | 7:40 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 13: Kansas City Royals vs Oakland Athletics | Tue 28th Apr 9:40 PM ET" tvg-logo="" group-title="MLB Baseball league",MLB 13: Kansas City Royals vs Oakland Athletics | Tue 28th Apr 9:40 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 00: Tampa Bay Rays vs Cleveland Guardians | Tue 28th Apr 6:10 PM ET" tvg-logo="" group-title="MLB Baseball league",MLB 00: Tampa Bay Rays vs Cleveland Guardians | Tue 28th Apr 6:10 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 12: Chicago Cubs vs San Diego Padres | Tue 28th Apr 9:40 PM ET" tvg-logo="" group-title="MLB Baseball league",MLB 12: Chicago Cubs vs San Diego Padres | Tue 28th Apr 9:40 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 09: Arizona Diamondbacks vs Milwaukee Brewers | Tue 28th Apr 7:40 PM ET" tvg-logo="" group-title="MLB Baseball league",MLB 09: Arizona Diamondbacks vs Milwaukee Brewers | Tue 28th Apr 7:40 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 11: New York Yankees vs Texas Rangers | Tue 28th Apr 8:05 PM ET" tvg-logo="" group-title="MLB Baseball league",MLB 11: New York Yankees vs Texas Rangers | Tue 28th Apr 8:05 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 08: Los Angeles Angels vs Chicago White Sox | Tue 28th Apr 7:40 PM ET" tvg-logo="" group-title="MLB Baseball league",MLB 08: Los Angeles Angels vs Chicago White Sox | Tue 28th Apr 7:40 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 19 : Orioles x Rangers start:2025 07 03 01:05:00 stop:2025 07 03 08:18:20" tvg-logo="" group-title="MLB Baseball league",MLB 19 : Orioles x Rangers start:2025 07 03 01:05:00 stop:2025 07 03 08:18:20
-#EXTINF:-1 tvg-id="" tvg-name="MLB 06: Washington Nationals vs New York Mets | Tue 28th Apr 7:10 PM ET" tvg-logo="" group-title="MLB Baseball league",MLB 06: Washington Nationals vs New York Mets | Tue 28th Apr 7:10 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 07: Detroit Tigers vs Atlanta Braves | Tue 28th Apr 7:15 PM ET" tvg-logo="" group-title="MLB Baseball league",MLB 07: Detroit Tigers vs Atlanta Braves | Tue 28th Apr 7:15 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 18: Seattle Mariners @ Minnesota Twins | Away Stream | 7:40 PM ET" tvg-logo="" group-title="MLB Baseball league",MLB 18: Seattle Mariners @ Minnesota Twins | Away Stream | 7:40 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 30: Miami Marlins @ Los Angeles Dodgers | Away Stream | 10:10 PM ET" tvg-logo="" group-title="MLB Baseball league",MLB 30: Miami Marlins @ Los Angeles Dodgers | Away Stream | 10:10 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 04: St. Louis Cardinals vs Pittsburgh Pirates | Tue 28th Apr 6:40 PM ET" tvg-logo="" group-title="MLB Baseball league",MLB 04: St. Louis Cardinals vs Pittsburgh Pirates | Tue 28th Apr 6:40 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 10: Seattle Mariners vs Minnesota Twins | Tue 28th Apr 7:40 PM ET" tvg-logo="" group-title="MLB Baseball league",MLB 10: Seattle Mariners vs Minnesota Twins | Tue 28th Apr 7:40 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 18 :Guardians x Cubs start:2025 07 03 01:05:00 stop:2025 07 03 08:18:20" tvg-logo="" group-title="MLB Baseball league",MLB 18 :Guardians x Cubs start:2025 07 03 01:05:00 stop:2025 07 03 08:18:20
-#EXTINF:-1 tvg-id="" tvg-name="MLB 01: Houston Astros vs Baltimore Orioles | Tue 28th Apr 6:35 PM ET" tvg-logo="" group-title="MLB Baseball league",MLB 01: Houston Astros vs Baltimore Orioles | Tue 28th Apr 6:35 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 02 : Colorado Rockies vs Cincinnati Reds | Tue 28th Apr 6:40 PM ET" tvg-logo="" group-title="MLB Baseball league",MLB 02 : Colorado Rockies vs Cincinnati Reds | Tue 28th Apr 6:40 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 03: San Francisco Giants vs Philadelphia Phillies | Tue 28th Apr 6:40 PM ET" tvg-logo="" group-title="MLB Baseball league",MLB 03: San Francisco Giants vs Philadelphia Phillies | Tue 28th Apr 6:40 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 16: No Scheduled Event" tvg-logo="" group-title="MLB Baseball league",MLB 16: No Scheduled Event
-#EXTINF:-1 tvg-id="" tvg-name="MLB 14: Miami Marlins vs Los Angeles Dodgers | Tue 28th Apr 10:10 PM ET" tvg-logo="" group-title="MLB Baseball league",MLB 14: Miami Marlins vs Los Angeles Dodgers | Tue 28th Apr 10:10 PM ET
-#EXTINF:-1 tvg-id="" tvg-name="MLB 19: No Scheduled Event" tvg-logo="" group-title="MLB Baseball league",MLB 19: No Scheduled Event
-#EXTINF:-1 tvg-id="" tvg-name="MLB 15:  No Scheduled Event" tvg-logo="" group-title="MLB Baseball league",MLB 15:  No Scheduled Event
-#EXTINF:-1 tvg-id="" tvg-name="MLB 20: No Scheduled Event" tvg-logo="" group-title="MLB Baseball league",MLB 20: No Scheduled Event
-#EXTINF:-1 tvg-id="" tvg-name="MLB 17: No Scheduled Event" tvg-logo="" group-title="MLB Baseball league",MLB 17: No Scheduled Event
-#EXTINF:-1 tvg-id="" tvg-name="MLB 18: No Scheduled Event" tvg-logo="" group-title="MLB Baseball league",MLB 18: No Scheduled Event
-#EXTINF:-1 tvg-id="" tvg-name="MLB 21: No Scheduled Event" tvg-logo="" group-title="MLB Baseball league",MLB 21: No Scheduled Event
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MLB 01: Rays vs Guardians (Home) (04.28 6:10PM ET)" tvg-logo="" group-title="All: MLB",MLB 01: Rays vs Guardians (Home) (04.28 6:10PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_01_Rays_vs_Guardians_Home_04_28_6_10PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 02: Rays vs Guardians (Away) (04.28 6:10PM ET)" tvg-logo="" group-title="All: MLB",MLB 02: Rays vs Guardians (Away) (04.28 6:10PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_02_Rays_vs_Guardians_Away_04_28_6_10PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 03: Astros vs Orioles (Home) (04.28 6:35PM ET)" tvg-logo="" group-title="All: MLB",MLB 03: Astros vs Orioles (Home) (04.28 6:35PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_03_Astros_vs_Orioles_Home_04_28_6_35PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 05: Rockies vs Reds (Home) (04.28 6:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 05: Rockies vs Reds (Home) (04.28 6:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_05_Rockies_vs_Reds_Home_04_28_6_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 07: Cardinals vs Pirates (Home) (04.28 6:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 07: Cardinals vs Pirates (Home) (04.28 6:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_07_Cardinals_vs_Pirates_Home_04_28_6_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 11: Red Sox vs Blue Jays (Home) (04.28 7:07PM ET)" tvg-logo="" group-title="All: MLB",MLB 11: Red Sox vs Blue Jays (Home) (04.28 7:07PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_11_Red_Sox_vs_Blue_Jays_Home_04_28_7_07PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 09: Giants vs Phillies (Home) (04.28 6:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 09: Giants vs Phillies (Home) (04.28 6:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_09_Giants_vs_Phillies_Home_04_28_6_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 15: Tigers vs Braves (Home) (04.28 7:15PM ET)" tvg-logo="" group-title="All: MLB",MLB 15: Tigers vs Braves (Home) (04.28 7:15PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_15_Tigers_vs_Braves_Home_04_28_7_15PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 13: Nationals vs Mets (Home) (04.28 7:10PM ET)" tvg-logo="" group-title="All: MLB",MLB 13: Nationals vs Mets (Home) (04.28 7:10PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_13_Nationals_vs_Mets_Home_04_28_7_10PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 04: Astros vs Orioles (Away) (04.28 6:35PM ET)" tvg-logo="" group-title="All: MLB",MLB 04: Astros vs Orioles (Away) (04.28 6:35PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_04_Astros_vs_Orioles_Away_04_28_6_35PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 08: Cardinals vs Pirates (Away) (04.28 6:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 08: Cardinals vs Pirates (Away) (04.28 6:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_08_Cardinals_vs_Pirates_Away_04_28_6_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 29: Marlins vs Dodgers (Home) (04.28 10:10PM ET)" tvg-logo="" group-title="All: MLB",MLB 29: Marlins vs Dodgers (Home) (04.28 10:10PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_29_Marlins_vs_Dodgers_Home_04_28_10_10PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 06: Rockies vs Reds (Away) (04.28 6:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 06: Rockies vs Reds (Away) (04.28 6:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_06_Rockies_vs_Reds_Away_04_28_6_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 12: Red Sox vs Blue Jays (Away) (04.28 7:07PM ET)" tvg-logo="" group-title="All: MLB",MLB 12: Red Sox vs Blue Jays (Away) (04.28 7:07PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_12_Red_Sox_vs_Blue_Jays_Away_04_28_7_07PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 25: Royals vs Athletics (Home) (04.28 9:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 25: Royals vs Athletics (Home) (04.28 9:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_25_Royals_vs_Athletics_Home_04_28_9_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 14: Nationals vs Mets (Away) (04.28 7:10PM ET)" tvg-logo="" group-title="All: MLB",MLB 14: Nationals vs Mets (Away) (04.28 7:10PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_14_Nationals_vs_Mets_Away_04_28_7_10PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 10: Giants vs Phillies (Away) (04.28 6:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 10: Giants vs Phillies (Away) (04.28 6:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_10_Giants_vs_Phillies_Away_04_28_6_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 27: Cubs vs Padres (Home) (04.28 9:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 27: Cubs vs Padres (Home) (04.28 9:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_27_Cubs_vs_Padres_Home_04_28_9_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 17: Mariners vs Twins (Home) (04.28 7:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 17: Mariners vs Twins (Home) (04.28 7:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_17_Mariners_vs_Twins_Home_04_28_7_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 23: Yankees vs Rangers (Home) (04.28 8:05PM ET)" tvg-logo="" group-title="All: MLB",MLB 23: Yankees vs Rangers (Home) (04.28 8:05PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_23_Yankees_vs_Rangers_Home_04_28_8_05PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 21: D backs vs Brewers (Home) (04.28 7:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 21: D backs vs Brewers (Home) (04.28 7:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_21_D_backs_vs_Brewers_Home_04_28_7_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 19: Angels vs White Sox (Home) (04.28 7:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 19: Angels vs White Sox (Home) (04.28 7:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_19_Angels_vs_White_Sox_Home_04_28_7_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 16: Tigers vs Braves (Away) (04.28 7:15PM ET)" tvg-logo="" group-title="All: MLB",MLB 16: Tigers vs Braves (Away) (04.28 7:15PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_16_Tigers_vs_Braves_Away_04_28_7_15PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 26: Royals vs Athletics (Away) (04.28 9:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 26: Royals vs Athletics (Away) (04.28 9:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_26_Royals_vs_Athletics_Away_04_28_9_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 18: Mariners vs Twins (Away) (04.28 7:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 18: Mariners vs Twins (Away) (04.28 7:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_18_Mariners_vs_Twins_Away_04_28_7_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 22: D backs vs Brewers (Away) (04.28 7:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 22: D backs vs Brewers (Away) (04.28 7:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_22_D_backs_vs_Brewers_Away_04_28_7_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 24: Yankees vs Rangers (Away) (04.28 8:05PM ET)" tvg-logo="" group-title="All: MLB",MLB 24: Yankees vs Rangers (Away) (04.28 8:05PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_24_Yankees_vs_Rangers_Away_04_28_8_05PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 28: Cubs vs Padres (Away) (04.28 9:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 28: Cubs vs Padres (Away) (04.28 9:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_28_Cubs_vs_Padres_Away_04_28_9_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 20: Angels vs White Sox (Away) (04.28 7:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 20: Angels vs White Sox (Away) (04.28 7:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_20_Angels_vs_White_Sox_Away_04_28_7_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 30: Marlins vs Dodgers (Away) (04.28 10:10PM ET)" tvg-logo="" group-title="All: MLB",MLB 30: Marlins vs Dodgers (Away) (04.28 10:10PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_30_Marlins_vs_Dodgers_Away_04_28_10_10PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 31: No event today" tvg-logo="" group-title="All: MLB",MLB 31: No event today
+http://REPLACE_WITH_STREAM_URL/MLB_31_No_event_today
+#EXTINF:-1 tvg-id="" tvg-name="MLB 32: No event today" tvg-logo="" group-title="All: MLB",MLB 32: No event today
+http://REPLACE_WITH_STREAM_URL/MLB_32_No_event_today
+#EXTINF:-1 tvg-id="" tvg-name="MLB 37: No event today" tvg-logo="" group-title="All: MLB",MLB 37: No event today
+http://REPLACE_WITH_STREAM_URL/MLB_37_No_event_today
+#EXTINF:-1 tvg-id="" tvg-name="MLB 33: No event today" tvg-logo="" group-title="All: MLB",MLB 33: No event today
+http://REPLACE_WITH_STREAM_URL/MLB_33_No_event_today
+#EXTINF:-1 tvg-id="" tvg-name="MLB 35: No event today" tvg-logo="" group-title="All: MLB",MLB 35: No event today
+http://REPLACE_WITH_STREAM_URL/MLB_35_No_event_today
+#EXTINF:-1 tvg-id="" tvg-name="MLB 34: No event today" tvg-logo="" group-title="All: MLB",MLB 34: No event today
+http://REPLACE_WITH_STREAM_URL/MLB_34_No_event_today
+#EXTINF:-1 tvg-id="" tvg-name="MLB 38: No event today" tvg-logo="" group-title="All: MLB",MLB 38: No event today
+http://REPLACE_WITH_STREAM_URL/MLB_38_No_event_today
+#EXTINF:-1 tvg-id="" tvg-name="MLB 36: No event today" tvg-logo="" group-title="All: MLB",MLB 36: No event today
+http://REPLACE_WITH_STREAM_URL/MLB_36_No_event_today
+#EXTINF:-1 tvg-id="" tvg-name="MLB 01 | Rays x Guardians start:2026 04 27 23:10:00 stop:2026 04 28 06:23:20" tvg-logo="" group-title="All: MLB",MLB 01 | Rays x Guardians start:2026 04 27 23:10:00 stop:2026 04 28 06:23:20
+http://REPLACE_WITH_STREAM_URL/MLB_01_Rays_x_Guardians_start_2026_04_27_23_10_00_stop_2026_04_28_06_23_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 02 |  Cardinals x Pirates start:2026 04 27 23:40:00 stop:2026 04 28 06:53:20" tvg-logo="" group-title="All: MLB",MLB 02 |  Cardinals x Pirates start:2026 04 27 23:40:00 stop:2026 04 28 06:53:20
+http://REPLACE_WITH_STREAM_URL/MLB_02_Cardinals_x_Pirates_start_2026_04_27_23_40_00_stop_2026_04_28_06_53_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 03 |  Red Sox x Blue Jays start:2026 04 28 00:07:00 stop:2026 04 28 07:20:20" tvg-logo="" group-title="All: MLB",MLB 03 |  Red Sox x Blue Jays start:2026 04 28 00:07:00 stop:2026 04 28 07:20:20
+http://REPLACE_WITH_STREAM_URL/MLB_03_Red_Sox_x_Blue_Jays_start_2026_04_28_00_07_00_stop_2026_04_28_07_20_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 04 |  Mariners x Twins start:2026 04 28 00:40:00 stop:2026 04 28 07:53:20" tvg-logo="" group-title="All: MLB",MLB 04 |  Mariners x Twins start:2026 04 28 00:40:00 stop:2026 04 28 07:53:20
+http://REPLACE_WITH_STREAM_URL/MLB_04_Mariners_x_Twins_start_2026_04_28_00_40_00_stop_2026_04_28_07_53_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 06 |  Yankees x Rangers start:2026 04 28 01:05:00 stop:2026 04 28 08:18:2" tvg-logo="" group-title="All: MLB",MLB 06 |  Yankees x Rangers start:2026 04 28 01:05:00 stop:2026 04 28 08:18:2
+http://REPLACE_WITH_STREAM_URL/MLB_06_Yankees_x_Rangers_start_2026_04_28_01_05_00_stop_2026_04_28_08_18_2
+#EXTINF:-1 tvg-id="" tvg-name="MLB 08 |  Marlins x Dodgers start:2026 04 28 03:10:00 stop:2026 04 28 10:23:20" tvg-logo="" group-title="All: MLB",MLB 08 |  Marlins x Dodgers start:2026 04 28 03:10:00 stop:2026 04 28 10:23:20
+http://REPLACE_WITH_STREAM_URL/MLB_08_Marlins_x_Dodgers_start_2026_04_28_03_10_00_stop_2026_04_28_10_23_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 09 |  Yankees x Astros start:2026 04 26 19:10:00 stop:2026 04 27 02:23:20" tvg-logo="" group-title="All: MLB",MLB 09 |  Yankees x Astros start:2026 04 26 19:10:00 stop:2026 04 27 02:23:20
+http://REPLACE_WITH_STREAM_URL/MLB_09_Yankees_x_Astros_start_2026_04_26_19_10_00_stop_2026_04_27_02_23_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 13 |  Padres x D backs start:2026 04 26 21:05:00 stop:2026 04 27 04:18:20" tvg-logo="" group-title="All: MLB",MLB 13 |  Padres x D backs start:2026 04 26 21:05:00 stop:2026 04 27 04:18:20
+http://REPLACE_WITH_STREAM_URL/MLB_13_Padres_x_D_backs_start_2026_04_26_21_05_00_stop_2026_04_27_04_18_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 07 |  Cubs x Padres start:2026 04 28 02:40:00 stop:2026 04 28 09:53:20 MLB event 8 name: Marlins x" tvg-logo="" group-title="All: MLB",MLB 07 |  Cubs x Padres start:2026 04 28 02:40:00 stop:2026 04 28 09:53:20 MLB event 8 name: Marlins x
+http://REPLACE_WITH_STREAM_URL/MLB_07_Cubs_x_Padres_start_2026_04_28_02_40_00_stop_2026_04_28_09_53_20_MLB_event_8_name_Marlins_x
+#EXTINF:-1 tvg-id="" tvg-name="MLB 05 |  Angels x White Sox start:2026 04 28 00:40:00 stop:2026 04 28 07:53:20" tvg-logo="" group-title="All: MLB",MLB 05 |  Angels x White Sox start:2026 04 28 00:40:00 stop:2026 04 28 07:53:20
+http://REPLACE_WITH_STREAM_URL/MLB_05_Angels_x_White_Sox_start_2026_04_28_00_40_00_stop_2026_04_28_07_53_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 10 |  Pirates x Brewers start:2026 04 26 19:10:00 stop:2026 04 27 02:23:20" tvg-logo="" group-title="All: MLB",MLB 10 |  Pirates x Brewers start:2026 04 26 19:10:00 stop:2026 04 27 02:23:20
+http://REPLACE_WITH_STREAM_URL/MLB_10_Pirates_x_Brewers_start_2026_04_26_19_10_00_stop_2026_04_27_02_23_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 15 |  Cubs x Dodgers start:2026 04 26 21:10:00 stop:2026 04 27 04:23:20" tvg-logo="" group-title="All: MLB",MLB 15 |  Cubs x Dodgers start:2026 04 26 21:10:00 stop:2026 04 27 04:23:20
+http://REPLACE_WITH_STREAM_URL/MLB_15_Cubs_x_Dodgers_start_2026_04_26_21_10_00_stop_2026_04_27_04_23_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 14 |  Marlins x Giants start:2026 04 26 21:05:00 stop:2026 04 27 04:18:20" tvg-logo="" group-title="All: MLB",MLB 14 |  Marlins x Giants start:2026 04 26 21:05:00 stop:2026 04 27 04:18:20
+http://REPLACE_WITH_STREAM_URL/MLB_14_Marlins_x_Giants_start_2026_04_26_21_05_00_stop_2026_04_27_04_18_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 11 |  Mariners x Cardinals start:2026 04 26 19:15:00 stop:2026 04 27 02:28:20" tvg-logo="" group-title="All: MLB",MLB 11 |  Mariners x Cardinals start:2026 04 26 19:15:00 stop:2026 04 27 02:28:20
+http://REPLACE_WITH_STREAM_URL/MLB_11_Mariners_x_Cardinals_start_2026_04_26_19_15_00_stop_2026_04_27_02_28_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 12 |  Athletics x Rangers start:2026 04 26 19:35:00 stop:2026 04 27 02:48:20" tvg-logo="" group-title="All: MLB",MLB 12 |  Athletics x Rangers start:2026 04 26 19:35:00 stop:2026 04 27 02:48:20
+http://REPLACE_WITH_STREAM_URL/MLB_12_Athletics_x_Rangers_start_2026_04_26_19_35_00_stop_2026_04_27_02_48_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 16 | Cardinals x Tigers start:2026 04 06 00:20:00 stop:2026 04 06 07:33:20" tvg-logo="" group-title="All: MLB",MLB 16 | Cardinals x Tigers start:2026 04 06 00:20:00 stop:2026 04 06 07:33:20
+http://REPLACE_WITH_STREAM_URL/MLB_16_Cardinals_x_Tigers_start_2026_04_06_00_20_00_stop_2026_04_06_07_33_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 17 |" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="All: MLB",MLB 17 |
+http://REPLACE_WITH_STREAM_URL/MLB_17
+#EXTINF:-1 tvg-id="" tvg-name="MLB 18:" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="All: MLB",MLB 18:
+http://REPLACE_WITH_STREAM_URL/MLB_18
+#EXTINF:-1 tvg-id="mlbnet.us" tvg-name="US MLB Network (S)" tvg-logo="https://logo.m3uassets.com/mlbnetwork.png" group-title="All: MLB",US MLB Network (S)
+http://REPLACE_WITH_STREAM_URL/US_MLB_Network_S
+#EXTINF:-1 tvg-id="" tvg-name="MLB 01: Tampa Bay Rays @ Cleveland Guardians | Home Stream | 6:10 PM ET" tvg-logo="" group-title="All: MLB",MLB 01: Tampa Bay Rays @ Cleveland Guardians | Home Stream | 6:10 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_01_Tampa_Bay_Rays_Cleveland_Guardians_Home_Stream_6_10_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 15: Detroit Tigers @ Atlanta Braves | Home Stream | 7:15 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="All: MLB",MLB 15: Detroit Tigers @ Atlanta Braves | Home Stream | 7:15 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_15_Detroit_Tigers_Atlanta_Braves_Home_Stream_7_15_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 02: Tampa Bay Rays @ Cleveland Guardians | Away Stream | 6:10 PM ET" tvg-logo="https://logo.m3uassets.com/mlb02.png" group-title="All: MLB",MLB 02: Tampa Bay Rays @ Cleveland Guardians | Away Stream | 6:10 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_02_Tampa_Bay_Rays_Cleveland_Guardians_Away_Stream_6_10_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 04: Houston Astros @ Baltimore Orioles | Away Stream | 6:35 PM ET" tvg-logo="https://logo.m3uassets.com/mlb04.png" group-title="All: MLB",MLB 04: Houston Astros @ Baltimore Orioles | Away Stream | 6:35 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_04_Houston_Astros_Baltimore_Orioles_Away_Stream_6_35_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 03: Houston Astros @ Baltimore Orioles | Home Stream | 6:35 PM ET" tvg-logo="https://logo.m3uassets.com/mlb03.png" group-title="All: MLB",MLB 03: Houston Astros @ Baltimore Orioles | Home Stream | 6:35 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_03_Houston_Astros_Baltimore_Orioles_Home_Stream_6_35_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 09: San Francisco Giants @ Philadelphia Phillies | Home Stream | 6:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb09.png" group-title="All: MLB",MLB 09: San Francisco Giants @ Philadelphia Phillies | Home Stream | 6:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_09_San_Francisco_Giants_Philadelphia_Phillies_Home_Stream_6_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 07: St. Louis Cardinals @ Pittsburgh Pirates | Home Stream | 6:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb07.png" group-title="All: MLB",MLB 07: St. Louis Cardinals @ Pittsburgh Pirates | Home Stream | 6:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_07_St_Louis_Cardinals_Pittsburgh_Pirates_Home_Stream_6_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 11: Boston Red Sox @ Toronto Blue Jays | Home Stream | 7:07 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="All: MLB",MLB 11: Boston Red Sox @ Toronto Blue Jays | Home Stream | 7:07 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_11_Boston_Red_Sox_Toronto_Blue_Jays_Home_Stream_7_07_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 10: San Francisco Giants @ Philadelphia Phillies | Away Stream | 6:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="All: MLB",MLB 10: San Francisco Giants @ Philadelphia Phillies | Away Stream | 6:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_10_San_Francisco_Giants_Philadelphia_Phillies_Away_Stream_6_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 05: Colorado Rockies @ Cincinnati Reds | Home Stream | 6:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb05.png" group-title="All: MLB",MLB 05: Colorado Rockies @ Cincinnati Reds | Home Stream | 6:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_05_Colorado_Rockies_Cincinnati_Reds_Home_Stream_6_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 06: Colorado Rockies @ Cincinnati Reds | Away Stream | 6:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb06.png" group-title="All: MLB",MLB 06: Colorado Rockies @ Cincinnati Reds | Away Stream | 6:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_06_Colorado_Rockies_Cincinnati_Reds_Away_Stream_6_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 08: St. Louis Cardinals @ Pittsburgh Pirates | Away Stream | 6:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb08.png" group-title="All: MLB",MLB 08: St. Louis Cardinals @ Pittsburgh Pirates | Away Stream | 6:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_08_St_Louis_Cardinals_Pittsburgh_Pirates_Away_Stream_6_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 14: Washington Nationals @ New York Mets | Away Stream | 7:10 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="All: MLB",MLB 14: Washington Nationals @ New York Mets | Away Stream | 7:10 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_14_Washington_Nationals_New_York_Mets_Away_Stream_7_10_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 12: Boston Red Sox @ Toronto Blue Jays | Away Stream | 7:07 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="All: MLB",MLB 12: Boston Red Sox @ Toronto Blue Jays | Away Stream | 7:07 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_12_Boston_Red_Sox_Toronto_Blue_Jays_Away_Stream_7_07_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 19: Los Angeles Angels @ Chicago White Sox | Home Stream | 7:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 19: Los Angeles Angels @ Chicago White Sox | Home Stream | 7:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_19_Los_Angeles_Angels_Chicago_White_Sox_Home_Stream_7_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 16: Detroit Tigers @ Atlanta Braves | Away Stream | 7:15 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="All: MLB",MLB 16: Detroit Tigers @ Atlanta Braves | Away Stream | 7:15 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_16_Detroit_Tigers_Atlanta_Braves_Away_Stream_7_15_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 13: Washington Nationals @ New York Mets | Home Stream | 7:10 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="All: MLB",MLB 13: Washington Nationals @ New York Mets | Home Stream | 7:10 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_13_Washington_Nationals_New_York_Mets_Home_Stream_7_10_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 17: Seattle Mariners @ Minnesota Twins | Home Stream | 7:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="All: MLB",MLB 17: Seattle Mariners @ Minnesota Twins | Home Stream | 7:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_17_Seattle_Mariners_Minnesota_Twins_Home_Stream_7_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 05: Boston Red Sox vs Toronto Blue Jays | Tue 28th Apr 7:07 PM ET" tvg-logo="" group-title="All: MLB",MLB 05: Boston Red Sox vs Toronto Blue Jays | Tue 28th Apr 7:07 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_05_Boston_Red_Sox_vs_Toronto_Blue_Jays_Tue_28th_Apr_7_07_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 20: Los Angeles Angels @ Chicago White Sox | Away Stream | 7:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 20: Los Angeles Angels @ Chicago White Sox | Away Stream | 7:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_20_Los_Angeles_Angels_Chicago_White_Sox_Away_Stream_7_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 13: Kansas City Royals vs Oakland Athletics | Tue 28th Apr 9:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 13: Kansas City Royals vs Oakland Athletics | Tue 28th Apr 9:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_13_Kansas_City_Royals_vs_Oakland_Athletics_Tue_28th_Apr_9_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 00: Tampa Bay Rays vs Cleveland Guardians | Tue 28th Apr 6:10 PM ET" tvg-logo="" group-title="All: MLB",MLB 00: Tampa Bay Rays vs Cleveland Guardians | Tue 28th Apr 6:10 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_00_Tampa_Bay_Rays_vs_Cleveland_Guardians_Tue_28th_Apr_6_10_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 12: Chicago Cubs vs San Diego Padres | Tue 28th Apr 9:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 12: Chicago Cubs vs San Diego Padres | Tue 28th Apr 9:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_12_Chicago_Cubs_vs_San_Diego_Padres_Tue_28th_Apr_9_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 09: Arizona Diamondbacks vs Milwaukee Brewers | Tue 28th Apr 7:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 09: Arizona Diamondbacks vs Milwaukee Brewers | Tue 28th Apr 7:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_09_Arizona_Diamondbacks_vs_Milwaukee_Brewers_Tue_28th_Apr_7_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 11: New York Yankees vs Texas Rangers | Tue 28th Apr 8:05 PM ET" tvg-logo="" group-title="All: MLB",MLB 11: New York Yankees vs Texas Rangers | Tue 28th Apr 8:05 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_11_New_York_Yankees_vs_Texas_Rangers_Tue_28th_Apr_8_05_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 08: Los Angeles Angels vs Chicago White Sox | Tue 28th Apr 7:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 08: Los Angeles Angels vs Chicago White Sox | Tue 28th Apr 7:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_08_Los_Angeles_Angels_vs_Chicago_White_Sox_Tue_28th_Apr_7_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 19 : Orioles x Rangers start:2025 07 03 01:05:00 stop:2025 07 03 08:18:20" tvg-logo="" group-title="All: MLB",MLB 19 : Orioles x Rangers start:2025 07 03 01:05:00 stop:2025 07 03 08:18:20
+http://REPLACE_WITH_STREAM_URL/MLB_19_Orioles_x_Rangers_start_2025_07_03_01_05_00_stop_2025_07_03_08_18_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 06: Washington Nationals vs New York Mets | Tue 28th Apr 7:10 PM ET" tvg-logo="" group-title="All: MLB",MLB 06: Washington Nationals vs New York Mets | Tue 28th Apr 7:10 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_06_Washington_Nationals_vs_New_York_Mets_Tue_28th_Apr_7_10_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 07: Detroit Tigers vs Atlanta Braves | Tue 28th Apr 7:15 PM ET" tvg-logo="" group-title="All: MLB",MLB 07: Detroit Tigers vs Atlanta Braves | Tue 28th Apr 7:15 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_07_Detroit_Tigers_vs_Atlanta_Braves_Tue_28th_Apr_7_15_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 18: Seattle Mariners @ Minnesota Twins | Away Stream | 7:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 18: Seattle Mariners @ Minnesota Twins | Away Stream | 7:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_18_Seattle_Mariners_Minnesota_Twins_Away_Stream_7_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 30: Miami Marlins @ Los Angeles Dodgers | Away Stream | 10:10 PM ET" tvg-logo="" group-title="All: MLB",MLB 30: Miami Marlins @ Los Angeles Dodgers | Away Stream | 10:10 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_30_Miami_Marlins_Los_Angeles_Dodgers_Away_Stream_10_10_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 04: St. Louis Cardinals vs Pittsburgh Pirates | Tue 28th Apr 6:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 04: St. Louis Cardinals vs Pittsburgh Pirates | Tue 28th Apr 6:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_04_St_Louis_Cardinals_vs_Pittsburgh_Pirates_Tue_28th_Apr_6_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 10: Seattle Mariners vs Minnesota Twins | Tue 28th Apr 7:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 10: Seattle Mariners vs Minnesota Twins | Tue 28th Apr 7:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_10_Seattle_Mariners_vs_Minnesota_Twins_Tue_28th_Apr_7_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 18 :Guardians x Cubs start:2025 07 03 01:05:00 stop:2025 07 03 08:18:20" tvg-logo="" group-title="All: MLB",MLB 18 :Guardians x Cubs start:2025 07 03 01:05:00 stop:2025 07 03 08:18:20
+http://REPLACE_WITH_STREAM_URL/MLB_18_Guardians_x_Cubs_start_2025_07_03_01_05_00_stop_2025_07_03_08_18_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 01: Houston Astros vs Baltimore Orioles | Tue 28th Apr 6:35 PM ET" tvg-logo="" group-title="All: MLB",MLB 01: Houston Astros vs Baltimore Orioles | Tue 28th Apr 6:35 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_01_Houston_Astros_vs_Baltimore_Orioles_Tue_28th_Apr_6_35_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 02 : Colorado Rockies vs Cincinnati Reds | Tue 28th Apr 6:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 02 : Colorado Rockies vs Cincinnati Reds | Tue 28th Apr 6:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_02_Colorado_Rockies_vs_Cincinnati_Reds_Tue_28th_Apr_6_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 03: San Francisco Giants vs Philadelphia Phillies | Tue 28th Apr 6:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 03: San Francisco Giants vs Philadelphia Phillies | Tue 28th Apr 6:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_03_San_Francisco_Giants_vs_Philadelphia_Phillies_Tue_28th_Apr_6_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 16: No Scheduled Event" tvg-logo="" group-title="All: MLB",MLB 16: No Scheduled Event
+http://REPLACE_WITH_STREAM_URL/MLB_16_No_Scheduled_Event
+#EXTINF:-1 tvg-id="" tvg-name="MLB 14: Miami Marlins vs Los Angeles Dodgers | Tue 28th Apr 10:10 PM ET" tvg-logo="" group-title="All: MLB",MLB 14: Miami Marlins vs Los Angeles Dodgers | Tue 28th Apr 10:10 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_14_Miami_Marlins_vs_Los_Angeles_Dodgers_Tue_28th_Apr_10_10_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 19: No Scheduled Event" tvg-logo="" group-title="All: MLB",MLB 19: No Scheduled Event
+http://REPLACE_WITH_STREAM_URL/MLB_19_No_Scheduled_Event
+#EXTINF:-1 tvg-id="" tvg-name="MLB 15:  No Scheduled Event" tvg-logo="" group-title="All: MLB",MLB 15:  No Scheduled Event
+http://REPLACE_WITH_STREAM_URL/MLB_15_No_Scheduled_Event
+#EXTINF:-1 tvg-id="" tvg-name="MLB 20: No Scheduled Event" tvg-logo="" group-title="All: MLB",MLB 20: No Scheduled Event
+http://REPLACE_WITH_STREAM_URL/MLB_20_No_Scheduled_Event
+#EXTINF:-1 tvg-id="" tvg-name="MLB 17: No Scheduled Event" tvg-logo="" group-title="All: MLB",MLB 17: No Scheduled Event
+http://REPLACE_WITH_STREAM_URL/MLB_17_No_Scheduled_Event
+#EXTINF:-1 tvg-id="" tvg-name="MLB 18: No Scheduled Event" tvg-logo="" group-title="All: MLB",MLB 18: No Scheduled Event
+http://REPLACE_WITH_STREAM_URL/MLB_18_No_Scheduled_Event
+#EXTINF:-1 tvg-id="" tvg-name="MLB 21: No Scheduled Event" tvg-logo="" group-title="All: MLB",MLB 21: No Scheduled Event
+http://REPLACE_WITH_STREAM_URL/MLB_21_No_Scheduled_Event
+#EXTINF:-1 tvg-id="" tvg-name="MLB 01: Rays vs Guardians (Home) (04.28 6:10PM ET)" tvg-logo="" group-title="All: MLB",MLB 01: Rays vs Guardians (Home) (04.28 6:10PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_01_Rays_vs_Guardians_Home_04_28_6_10PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 02: Rays vs Guardians (Away) (04.28 6:10PM ET)" tvg-logo="" group-title="All: MLB",MLB 02: Rays vs Guardians (Away) (04.28 6:10PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_02_Rays_vs_Guardians_Away_04_28_6_10PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 03: Astros vs Orioles (Home) (04.28 6:35PM ET)" tvg-logo="" group-title="All: MLB",MLB 03: Astros vs Orioles (Home) (04.28 6:35PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_03_Astros_vs_Orioles_Home_04_28_6_35PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 05: Rockies vs Reds (Home) (04.28 6:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 05: Rockies vs Reds (Home) (04.28 6:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_05_Rockies_vs_Reds_Home_04_28_6_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 07: Cardinals vs Pirates (Home) (04.28 6:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 07: Cardinals vs Pirates (Home) (04.28 6:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_07_Cardinals_vs_Pirates_Home_04_28_6_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 11: Red Sox vs Blue Jays (Home) (04.28 7:07PM ET)" tvg-logo="" group-title="All: MLB",MLB 11: Red Sox vs Blue Jays (Home) (04.28 7:07PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_11_Red_Sox_vs_Blue_Jays_Home_04_28_7_07PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 09: Giants vs Phillies (Home) (04.28 6:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 09: Giants vs Phillies (Home) (04.28 6:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_09_Giants_vs_Phillies_Home_04_28_6_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 15: Tigers vs Braves (Home) (04.28 7:15PM ET)" tvg-logo="" group-title="All: MLB",MLB 15: Tigers vs Braves (Home) (04.28 7:15PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_15_Tigers_vs_Braves_Home_04_28_7_15PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 13: Nationals vs Mets (Home) (04.28 7:10PM ET)" tvg-logo="" group-title="All: MLB",MLB 13: Nationals vs Mets (Home) (04.28 7:10PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_13_Nationals_vs_Mets_Home_04_28_7_10PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 04: Astros vs Orioles (Away) (04.28 6:35PM ET)" tvg-logo="" group-title="All: MLB",MLB 04: Astros vs Orioles (Away) (04.28 6:35PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_04_Astros_vs_Orioles_Away_04_28_6_35PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 08: Cardinals vs Pirates (Away) (04.28 6:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 08: Cardinals vs Pirates (Away) (04.28 6:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_08_Cardinals_vs_Pirates_Away_04_28_6_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 29: Marlins vs Dodgers (Home) (04.28 10:10PM ET)" tvg-logo="" group-title="All: MLB",MLB 29: Marlins vs Dodgers (Home) (04.28 10:10PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_29_Marlins_vs_Dodgers_Home_04_28_10_10PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 06: Rockies vs Reds (Away) (04.28 6:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 06: Rockies vs Reds (Away) (04.28 6:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_06_Rockies_vs_Reds_Away_04_28_6_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 12: Red Sox vs Blue Jays (Away) (04.28 7:07PM ET)" tvg-logo="" group-title="All: MLB",MLB 12: Red Sox vs Blue Jays (Away) (04.28 7:07PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_12_Red_Sox_vs_Blue_Jays_Away_04_28_7_07PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 25: Royals vs Athletics (Home) (04.28 9:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 25: Royals vs Athletics (Home) (04.28 9:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_25_Royals_vs_Athletics_Home_04_28_9_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 14: Nationals vs Mets (Away) (04.28 7:10PM ET)" tvg-logo="" group-title="All: MLB",MLB 14: Nationals vs Mets (Away) (04.28 7:10PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_14_Nationals_vs_Mets_Away_04_28_7_10PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 10: Giants vs Phillies (Away) (04.28 6:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 10: Giants vs Phillies (Away) (04.28 6:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_10_Giants_vs_Phillies_Away_04_28_6_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 27: Cubs vs Padres (Home) (04.28 9:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 27: Cubs vs Padres (Home) (04.28 9:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_27_Cubs_vs_Padres_Home_04_28_9_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 17: Mariners vs Twins (Home) (04.28 7:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 17: Mariners vs Twins (Home) (04.28 7:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_17_Mariners_vs_Twins_Home_04_28_7_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 23: Yankees vs Rangers (Home) (04.28 8:05PM ET)" tvg-logo="" group-title="All: MLB",MLB 23: Yankees vs Rangers (Home) (04.28 8:05PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_23_Yankees_vs_Rangers_Home_04_28_8_05PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 21: D backs vs Brewers (Home) (04.28 7:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 21: D backs vs Brewers (Home) (04.28 7:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_21_D_backs_vs_Brewers_Home_04_28_7_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 19: Angels vs White Sox (Home) (04.28 7:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 19: Angels vs White Sox (Home) (04.28 7:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_19_Angels_vs_White_Sox_Home_04_28_7_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 16: Tigers vs Braves (Away) (04.28 7:15PM ET)" tvg-logo="" group-title="All: MLB",MLB 16: Tigers vs Braves (Away) (04.28 7:15PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_16_Tigers_vs_Braves_Away_04_28_7_15PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 26: Royals vs Athletics (Away) (04.28 9:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 26: Royals vs Athletics (Away) (04.28 9:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_26_Royals_vs_Athletics_Away_04_28_9_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 18: Mariners vs Twins (Away) (04.28 7:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 18: Mariners vs Twins (Away) (04.28 7:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_18_Mariners_vs_Twins_Away_04_28_7_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 22: D backs vs Brewers (Away) (04.28 7:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 22: D backs vs Brewers (Away) (04.28 7:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_22_D_backs_vs_Brewers_Away_04_28_7_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 24: Yankees vs Rangers (Away) (04.28 8:05PM ET)" tvg-logo="" group-title="All: MLB",MLB 24: Yankees vs Rangers (Away) (04.28 8:05PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_24_Yankees_vs_Rangers_Away_04_28_8_05PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 28: Cubs vs Padres (Away) (04.28 9:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 28: Cubs vs Padres (Away) (04.28 9:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_28_Cubs_vs_Padres_Away_04_28_9_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 20: Angels vs White Sox (Away) (04.28 7:40PM ET)" tvg-logo="" group-title="All: MLB",MLB 20: Angels vs White Sox (Away) (04.28 7:40PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_20_Angels_vs_White_Sox_Away_04_28_7_40PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 30: Marlins vs Dodgers (Away) (04.28 10:10PM ET)" tvg-logo="" group-title="All: MLB",MLB 30: Marlins vs Dodgers (Away) (04.28 10:10PM ET)
+http://REPLACE_WITH_STREAM_URL/MLB_30_Marlins_vs_Dodgers_Away_04_28_10_10PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 31: No event today" tvg-logo="" group-title="All: MLB",MLB 31: No event today
+http://REPLACE_WITH_STREAM_URL/MLB_31_No_event_today
+#EXTINF:-1 tvg-id="" tvg-name="MLB 32: No event today" tvg-logo="" group-title="All: MLB",MLB 32: No event today
+http://REPLACE_WITH_STREAM_URL/MLB_32_No_event_today
+#EXTINF:-1 tvg-id="" tvg-name="MLB 37: No event today" tvg-logo="" group-title="All: MLB",MLB 37: No event today
+http://REPLACE_WITH_STREAM_URL/MLB_37_No_event_today
+#EXTINF:-1 tvg-id="" tvg-name="MLB 33: No event today" tvg-logo="" group-title="All: MLB",MLB 33: No event today
+http://REPLACE_WITH_STREAM_URL/MLB_33_No_event_today
+#EXTINF:-1 tvg-id="" tvg-name="MLB 35: No event today" tvg-logo="" group-title="All: MLB",MLB 35: No event today
+http://REPLACE_WITH_STREAM_URL/MLB_35_No_event_today
+#EXTINF:-1 tvg-id="" tvg-name="MLB 34: No event today" tvg-logo="" group-title="All: MLB",MLB 34: No event today
+http://REPLACE_WITH_STREAM_URL/MLB_34_No_event_today
+#EXTINF:-1 tvg-id="" tvg-name="MLB 38: No event today" tvg-logo="" group-title="All: MLB",MLB 38: No event today
+http://REPLACE_WITH_STREAM_URL/MLB_38_No_event_today
+#EXTINF:-1 tvg-id="" tvg-name="MLB 36: No event today" tvg-logo="" group-title="All: MLB",MLB 36: No event today
+http://REPLACE_WITH_STREAM_URL/MLB_36_No_event_today
+#EXTINF:-1 tvg-id="" tvg-name="MLB 01 | Rays x Guardians start:2026 04 27 23:10:00 stop:2026 04 28 06:23:20" tvg-logo="" group-title="All: MLB",MLB 01 | Rays x Guardians start:2026 04 27 23:10:00 stop:2026 04 28 06:23:20
+http://REPLACE_WITH_STREAM_URL/MLB_01_Rays_x_Guardians_start_2026_04_27_23_10_00_stop_2026_04_28_06_23_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 02 |  Cardinals x Pirates start:2026 04 27 23:40:00 stop:2026 04 28 06:53:20" tvg-logo="" group-title="All: MLB",MLB 02 |  Cardinals x Pirates start:2026 04 27 23:40:00 stop:2026 04 28 06:53:20
+http://REPLACE_WITH_STREAM_URL/MLB_02_Cardinals_x_Pirates_start_2026_04_27_23_40_00_stop_2026_04_28_06_53_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 03 |  Red Sox x Blue Jays start:2026 04 28 00:07:00 stop:2026 04 28 07:20:20" tvg-logo="" group-title="All: MLB",MLB 03 |  Red Sox x Blue Jays start:2026 04 28 00:07:00 stop:2026 04 28 07:20:20
+http://REPLACE_WITH_STREAM_URL/MLB_03_Red_Sox_x_Blue_Jays_start_2026_04_28_00_07_00_stop_2026_04_28_07_20_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 04 |  Mariners x Twins start:2026 04 28 00:40:00 stop:2026 04 28 07:53:20" tvg-logo="" group-title="All: MLB",MLB 04 |  Mariners x Twins start:2026 04 28 00:40:00 stop:2026 04 28 07:53:20
+http://REPLACE_WITH_STREAM_URL/MLB_04_Mariners_x_Twins_start_2026_04_28_00_40_00_stop_2026_04_28_07_53_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 06 |  Yankees x Rangers start:2026 04 28 01:05:00 stop:2026 04 28 08:18:2" tvg-logo="" group-title="All: MLB",MLB 06 |  Yankees x Rangers start:2026 04 28 01:05:00 stop:2026 04 28 08:18:2
+http://REPLACE_WITH_STREAM_URL/MLB_06_Yankees_x_Rangers_start_2026_04_28_01_05_00_stop_2026_04_28_08_18_2
+#EXTINF:-1 tvg-id="" tvg-name="MLB 08 |  Marlins x Dodgers start:2026 04 28 03:10:00 stop:2026 04 28 10:23:20" tvg-logo="" group-title="All: MLB",MLB 08 |  Marlins x Dodgers start:2026 04 28 03:10:00 stop:2026 04 28 10:23:20
+http://REPLACE_WITH_STREAM_URL/MLB_08_Marlins_x_Dodgers_start_2026_04_28_03_10_00_stop_2026_04_28_10_23_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 09 |  Yankees x Astros start:2026 04 26 19:10:00 stop:2026 04 27 02:23:20" tvg-logo="" group-title="All: MLB",MLB 09 |  Yankees x Astros start:2026 04 26 19:10:00 stop:2026 04 27 02:23:20
+http://REPLACE_WITH_STREAM_URL/MLB_09_Yankees_x_Astros_start_2026_04_26_19_10_00_stop_2026_04_27_02_23_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 13 |  Padres x D backs start:2026 04 26 21:05:00 stop:2026 04 27 04:18:20" tvg-logo="" group-title="All: MLB",MLB 13 |  Padres x D backs start:2026 04 26 21:05:00 stop:2026 04 27 04:18:20
+http://REPLACE_WITH_STREAM_URL/MLB_13_Padres_x_D_backs_start_2026_04_26_21_05_00_stop_2026_04_27_04_18_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 07 |  Cubs x Padres start:2026 04 28 02:40:00 stop:2026 04 28 09:53:20 MLB event 8 name: Marlins x" tvg-logo="" group-title="All: MLB",MLB 07 |  Cubs x Padres start:2026 04 28 02:40:00 stop:2026 04 28 09:53:20 MLB event 8 name: Marlins x
+http://REPLACE_WITH_STREAM_URL/MLB_07_Cubs_x_Padres_start_2026_04_28_02_40_00_stop_2026_04_28_09_53_20_MLB_event_8_name_Marlins_x
+#EXTINF:-1 tvg-id="" tvg-name="MLB 05 |  Angels x White Sox start:2026 04 28 00:40:00 stop:2026 04 28 07:53:20" tvg-logo="" group-title="All: MLB",MLB 05 |  Angels x White Sox start:2026 04 28 00:40:00 stop:2026 04 28 07:53:20
+http://REPLACE_WITH_STREAM_URL/MLB_05_Angels_x_White_Sox_start_2026_04_28_00_40_00_stop_2026_04_28_07_53_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 10 |  Pirates x Brewers start:2026 04 26 19:10:00 stop:2026 04 27 02:23:20" tvg-logo="" group-title="All: MLB",MLB 10 |  Pirates x Brewers start:2026 04 26 19:10:00 stop:2026 04 27 02:23:20
+http://REPLACE_WITH_STREAM_URL/MLB_10_Pirates_x_Brewers_start_2026_04_26_19_10_00_stop_2026_04_27_02_23_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 15 |  Cubs x Dodgers start:2026 04 26 21:10:00 stop:2026 04 27 04:23:20" tvg-logo="" group-title="All: MLB",MLB 15 |  Cubs x Dodgers start:2026 04 26 21:10:00 stop:2026 04 27 04:23:20
+http://REPLACE_WITH_STREAM_URL/MLB_15_Cubs_x_Dodgers_start_2026_04_26_21_10_00_stop_2026_04_27_04_23_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 14 |  Marlins x Giants start:2026 04 26 21:05:00 stop:2026 04 27 04:18:20" tvg-logo="" group-title="All: MLB",MLB 14 |  Marlins x Giants start:2026 04 26 21:05:00 stop:2026 04 27 04:18:20
+http://REPLACE_WITH_STREAM_URL/MLB_14_Marlins_x_Giants_start_2026_04_26_21_05_00_stop_2026_04_27_04_18_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 11 |  Mariners x Cardinals start:2026 04 26 19:15:00 stop:2026 04 27 02:28:20" tvg-logo="" group-title="All: MLB",MLB 11 |  Mariners x Cardinals start:2026 04 26 19:15:00 stop:2026 04 27 02:28:20
+http://REPLACE_WITH_STREAM_URL/MLB_11_Mariners_x_Cardinals_start_2026_04_26_19_15_00_stop_2026_04_27_02_28_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 12 |  Athletics x Rangers start:2026 04 26 19:35:00 stop:2026 04 27 02:48:20" tvg-logo="" group-title="All: MLB",MLB 12 |  Athletics x Rangers start:2026 04 26 19:35:00 stop:2026 04 27 02:48:20
+http://REPLACE_WITH_STREAM_URL/MLB_12_Athletics_x_Rangers_start_2026_04_26_19_35_00_stop_2026_04_27_02_48_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 16 | Cardinals x Tigers start:2026 04 06 00:20:00 stop:2026 04 06 07:33:20" tvg-logo="" group-title="All: MLB",MLB 16 | Cardinals x Tigers start:2026 04 06 00:20:00 stop:2026 04 06 07:33:20
+http://REPLACE_WITH_STREAM_URL/MLB_16_Cardinals_x_Tigers_start_2026_04_06_00_20_00_stop_2026_04_06_07_33_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 17 |" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="All: MLB",MLB 17 |
+http://REPLACE_WITH_STREAM_URL/MLB_17
+#EXTINF:-1 tvg-id="" tvg-name="MLB 18:" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="All: MLB",MLB 18:
+http://REPLACE_WITH_STREAM_URL/MLB_18
+#EXTINF:-1 tvg-id="mlbnet.us" tvg-name="US MLB Network (S)" tvg-logo="https://logo.m3uassets.com/mlbnetwork.png" group-title="All: MLB",US MLB Network (S)
+http://REPLACE_WITH_STREAM_URL/US_MLB_Network_S
+#EXTINF:-1 tvg-id="" tvg-name="MLB 01: Tampa Bay Rays @ Cleveland Guardians | Home Stream | 6:10 PM ET" tvg-logo="" group-title="All: MLB",MLB 01: Tampa Bay Rays @ Cleveland Guardians | Home Stream | 6:10 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_01_Tampa_Bay_Rays_Cleveland_Guardians_Home_Stream_6_10_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 15: Detroit Tigers @ Atlanta Braves | Home Stream | 7:15 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="All: MLB",MLB 15: Detroit Tigers @ Atlanta Braves | Home Stream | 7:15 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_15_Detroit_Tigers_Atlanta_Braves_Home_Stream_7_15_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 02: Tampa Bay Rays @ Cleveland Guardians | Away Stream | 6:10 PM ET" tvg-logo="https://logo.m3uassets.com/mlb02.png" group-title="All: MLB",MLB 02: Tampa Bay Rays @ Cleveland Guardians | Away Stream | 6:10 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_02_Tampa_Bay_Rays_Cleveland_Guardians_Away_Stream_6_10_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 04: Houston Astros @ Baltimore Orioles | Away Stream | 6:35 PM ET" tvg-logo="https://logo.m3uassets.com/mlb04.png" group-title="All: MLB",MLB 04: Houston Astros @ Baltimore Orioles | Away Stream | 6:35 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_04_Houston_Astros_Baltimore_Orioles_Away_Stream_6_35_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 03: Houston Astros @ Baltimore Orioles | Home Stream | 6:35 PM ET" tvg-logo="https://logo.m3uassets.com/mlb03.png" group-title="All: MLB",MLB 03: Houston Astros @ Baltimore Orioles | Home Stream | 6:35 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_03_Houston_Astros_Baltimore_Orioles_Home_Stream_6_35_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 09: San Francisco Giants @ Philadelphia Phillies | Home Stream | 6:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb09.png" group-title="All: MLB",MLB 09: San Francisco Giants @ Philadelphia Phillies | Home Stream | 6:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_09_San_Francisco_Giants_Philadelphia_Phillies_Home_Stream_6_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 07: St. Louis Cardinals @ Pittsburgh Pirates | Home Stream | 6:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb07.png" group-title="All: MLB",MLB 07: St. Louis Cardinals @ Pittsburgh Pirates | Home Stream | 6:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_07_St_Louis_Cardinals_Pittsburgh_Pirates_Home_Stream_6_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 11: Boston Red Sox @ Toronto Blue Jays | Home Stream | 7:07 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="All: MLB",MLB 11: Boston Red Sox @ Toronto Blue Jays | Home Stream | 7:07 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_11_Boston_Red_Sox_Toronto_Blue_Jays_Home_Stream_7_07_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 10: San Francisco Giants @ Philadelphia Phillies | Away Stream | 6:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="All: MLB",MLB 10: San Francisco Giants @ Philadelphia Phillies | Away Stream | 6:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_10_San_Francisco_Giants_Philadelphia_Phillies_Away_Stream_6_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 05: Colorado Rockies @ Cincinnati Reds | Home Stream | 6:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb05.png" group-title="All: MLB",MLB 05: Colorado Rockies @ Cincinnati Reds | Home Stream | 6:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_05_Colorado_Rockies_Cincinnati_Reds_Home_Stream_6_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 06: Colorado Rockies @ Cincinnati Reds | Away Stream | 6:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb06.png" group-title="All: MLB",MLB 06: Colorado Rockies @ Cincinnati Reds | Away Stream | 6:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_06_Colorado_Rockies_Cincinnati_Reds_Away_Stream_6_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 08: St. Louis Cardinals @ Pittsburgh Pirates | Away Stream | 6:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb08.png" group-title="All: MLB",MLB 08: St. Louis Cardinals @ Pittsburgh Pirates | Away Stream | 6:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_08_St_Louis_Cardinals_Pittsburgh_Pirates_Away_Stream_6_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 14: Washington Nationals @ New York Mets | Away Stream | 7:10 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="All: MLB",MLB 14: Washington Nationals @ New York Mets | Away Stream | 7:10 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_14_Washington_Nationals_New_York_Mets_Away_Stream_7_10_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 12: Boston Red Sox @ Toronto Blue Jays | Away Stream | 7:07 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="All: MLB",MLB 12: Boston Red Sox @ Toronto Blue Jays | Away Stream | 7:07 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_12_Boston_Red_Sox_Toronto_Blue_Jays_Away_Stream_7_07_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 19: Los Angeles Angels @ Chicago White Sox | Home Stream | 7:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 19: Los Angeles Angels @ Chicago White Sox | Home Stream | 7:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_19_Los_Angeles_Angels_Chicago_White_Sox_Home_Stream_7_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 16: Detroit Tigers @ Atlanta Braves | Away Stream | 7:15 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="All: MLB",MLB 16: Detroit Tigers @ Atlanta Braves | Away Stream | 7:15 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_16_Detroit_Tigers_Atlanta_Braves_Away_Stream_7_15_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 13: Washington Nationals @ New York Mets | Home Stream | 7:10 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="All: MLB",MLB 13: Washington Nationals @ New York Mets | Home Stream | 7:10 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_13_Washington_Nationals_New_York_Mets_Home_Stream_7_10_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 17: Seattle Mariners @ Minnesota Twins | Home Stream | 7:40 PM ET" tvg-logo="https://logo.m3uassets.com/mlb18.png" group-title="All: MLB",MLB 17: Seattle Mariners @ Minnesota Twins | Home Stream | 7:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_17_Seattle_Mariners_Minnesota_Twins_Home_Stream_7_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 05: Boston Red Sox vs Toronto Blue Jays | Tue 28th Apr 7:07 PM ET" tvg-logo="" group-title="All: MLB",MLB 05: Boston Red Sox vs Toronto Blue Jays | Tue 28th Apr 7:07 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_05_Boston_Red_Sox_vs_Toronto_Blue_Jays_Tue_28th_Apr_7_07_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 20: Los Angeles Angels @ Chicago White Sox | Away Stream | 7:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 20: Los Angeles Angels @ Chicago White Sox | Away Stream | 7:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_20_Los_Angeles_Angels_Chicago_White_Sox_Away_Stream_7_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 13: Kansas City Royals vs Oakland Athletics | Tue 28th Apr 9:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 13: Kansas City Royals vs Oakland Athletics | Tue 28th Apr 9:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_13_Kansas_City_Royals_vs_Oakland_Athletics_Tue_28th_Apr_9_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 00: Tampa Bay Rays vs Cleveland Guardians | Tue 28th Apr 6:10 PM ET" tvg-logo="" group-title="All: MLB",MLB 00: Tampa Bay Rays vs Cleveland Guardians | Tue 28th Apr 6:10 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_00_Tampa_Bay_Rays_vs_Cleveland_Guardians_Tue_28th_Apr_6_10_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 12: Chicago Cubs vs San Diego Padres | Tue 28th Apr 9:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 12: Chicago Cubs vs San Diego Padres | Tue 28th Apr 9:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_12_Chicago_Cubs_vs_San_Diego_Padres_Tue_28th_Apr_9_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 09: Arizona Diamondbacks vs Milwaukee Brewers | Tue 28th Apr 7:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 09: Arizona Diamondbacks vs Milwaukee Brewers | Tue 28th Apr 7:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_09_Arizona_Diamondbacks_vs_Milwaukee_Brewers_Tue_28th_Apr_7_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 11: New York Yankees vs Texas Rangers | Tue 28th Apr 8:05 PM ET" tvg-logo="" group-title="All: MLB",MLB 11: New York Yankees vs Texas Rangers | Tue 28th Apr 8:05 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_11_New_York_Yankees_vs_Texas_Rangers_Tue_28th_Apr_8_05_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 08: Los Angeles Angels vs Chicago White Sox | Tue 28th Apr 7:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 08: Los Angeles Angels vs Chicago White Sox | Tue 28th Apr 7:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_08_Los_Angeles_Angels_vs_Chicago_White_Sox_Tue_28th_Apr_7_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 19 : Orioles x Rangers start:2025 07 03 01:05:00 stop:2025 07 03 08:18:20" tvg-logo="" group-title="All: MLB",MLB 19 : Orioles x Rangers start:2025 07 03 01:05:00 stop:2025 07 03 08:18:20
+http://REPLACE_WITH_STREAM_URL/MLB_19_Orioles_x_Rangers_start_2025_07_03_01_05_00_stop_2025_07_03_08_18_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 06: Washington Nationals vs New York Mets | Tue 28th Apr 7:10 PM ET" tvg-logo="" group-title="All: MLB",MLB 06: Washington Nationals vs New York Mets | Tue 28th Apr 7:10 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_06_Washington_Nationals_vs_New_York_Mets_Tue_28th_Apr_7_10_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 07: Detroit Tigers vs Atlanta Braves | Tue 28th Apr 7:15 PM ET" tvg-logo="" group-title="All: MLB",MLB 07: Detroit Tigers vs Atlanta Braves | Tue 28th Apr 7:15 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_07_Detroit_Tigers_vs_Atlanta_Braves_Tue_28th_Apr_7_15_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 18: Seattle Mariners @ Minnesota Twins | Away Stream | 7:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 18: Seattle Mariners @ Minnesota Twins | Away Stream | 7:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_18_Seattle_Mariners_Minnesota_Twins_Away_Stream_7_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 30: Miami Marlins @ Los Angeles Dodgers | Away Stream | 10:10 PM ET" tvg-logo="" group-title="All: MLB",MLB 30: Miami Marlins @ Los Angeles Dodgers | Away Stream | 10:10 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_30_Miami_Marlins_Los_Angeles_Dodgers_Away_Stream_10_10_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 04: St. Louis Cardinals vs Pittsburgh Pirates | Tue 28th Apr 6:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 04: St. Louis Cardinals vs Pittsburgh Pirates | Tue 28th Apr 6:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_04_St_Louis_Cardinals_vs_Pittsburgh_Pirates_Tue_28th_Apr_6_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 10: Seattle Mariners vs Minnesota Twins | Tue 28th Apr 7:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 10: Seattle Mariners vs Minnesota Twins | Tue 28th Apr 7:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_10_Seattle_Mariners_vs_Minnesota_Twins_Tue_28th_Apr_7_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 18 :Guardians x Cubs start:2025 07 03 01:05:00 stop:2025 07 03 08:18:20" tvg-logo="" group-title="All: MLB",MLB 18 :Guardians x Cubs start:2025 07 03 01:05:00 stop:2025 07 03 08:18:20
+http://REPLACE_WITH_STREAM_URL/MLB_18_Guardians_x_Cubs_start_2025_07_03_01_05_00_stop_2025_07_03_08_18_20
+#EXTINF:-1 tvg-id="" tvg-name="MLB 01: Houston Astros vs Baltimore Orioles | Tue 28th Apr 6:35 PM ET" tvg-logo="" group-title="All: MLB",MLB 01: Houston Astros vs Baltimore Orioles | Tue 28th Apr 6:35 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_01_Houston_Astros_vs_Baltimore_Orioles_Tue_28th_Apr_6_35_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 02 : Colorado Rockies vs Cincinnati Reds | Tue 28th Apr 6:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 02 : Colorado Rockies vs Cincinnati Reds | Tue 28th Apr 6:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_02_Colorado_Rockies_vs_Cincinnati_Reds_Tue_28th_Apr_6_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 03: San Francisco Giants vs Philadelphia Phillies | Tue 28th Apr 6:40 PM ET" tvg-logo="" group-title="All: MLB",MLB 03: San Francisco Giants vs Philadelphia Phillies | Tue 28th Apr 6:40 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_03_San_Francisco_Giants_vs_Philadelphia_Phillies_Tue_28th_Apr_6_40_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 16: No Scheduled Event" tvg-logo="" group-title="All: MLB",MLB 16: No Scheduled Event
+http://REPLACE_WITH_STREAM_URL/MLB_16_No_Scheduled_Event
+#EXTINF:-1 tvg-id="" tvg-name="MLB 14: Miami Marlins vs Los Angeles Dodgers | Tue 28th Apr 10:10 PM ET" tvg-logo="" group-title="All: MLB",MLB 14: Miami Marlins vs Los Angeles Dodgers | Tue 28th Apr 10:10 PM ET
+http://REPLACE_WITH_STREAM_URL/MLB_14_Miami_Marlins_vs_Los_Angeles_Dodgers_Tue_28th_Apr_10_10_PM_ET
+#EXTINF:-1 tvg-id="" tvg-name="MLB 19: No Scheduled Event" tvg-logo="" group-title="All: MLB",MLB 19: No Scheduled Event
+http://REPLACE_WITH_STREAM_URL/MLB_19_No_Scheduled_Event
+#EXTINF:-1 tvg-id="" tvg-name="MLB 15:  No Scheduled Event" tvg-logo="" group-title="All: MLB",MLB 15:  No Scheduled Event
+http://REPLACE_WITH_STREAM_URL/MLB_15_No_Scheduled_Event
+#EXTINF:-1 tvg-id="" tvg-name="MLB 20: No Scheduled Event" tvg-logo="" group-title="All: MLB",MLB 20: No Scheduled Event
+http://REPLACE_WITH_STREAM_URL/MLB_20_No_Scheduled_Event
+#EXTINF:-1 tvg-id="" tvg-name="MLB 17: No Scheduled Event" tvg-logo="" group-title="All: MLB",MLB 17: No Scheduled Event
+http://REPLACE_WITH_STREAM_URL/MLB_17_No_Scheduled_Event
+#EXTINF:-1 tvg-id="" tvg-name="MLB 18: No Scheduled Event" tvg-logo="" group-title="All: MLB",MLB 18: No Scheduled Event
+http://REPLACE_WITH_STREAM_URL/MLB_18_No_Scheduled_Event
+#EXTINF:-1 tvg-id="" tvg-name="MLB 21: No Scheduled Event" tvg-logo="" group-title="All: MLB",MLB 21: No Scheduled Event
+http://REPLACE_WITH_STREAM_URL/MLB_21_No_Scheduled_Event
+
 #EXTINF:-1 tvg-id="" tvg-name="Yes Network" group-title="All: MLB",Yes Network
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/500005519
 #EXTINF:-1 tvg-id="" tvg-name="US MLB Network Alternate (S)" tvg-logo="https://logo.m3uassets.com/mlbnetworkalternate.png" group-title="All: MLB",US MLB Network Alternate (S)
