@@ -733,6 +733,8 @@ https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200168380
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200170287
 #EXTINF:-1 tvg-id="" tvg-name="HBO West (US) Backup 2" tvg-logo="https://logo.m3uassets.com/hbowest.png" group-title="USA | West Coast - Los Angeles",HBO West (US) Backup 2
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400124921
+#EXTINF:-1 tvg-id="" tvg-name="US KTLA 5 Los Angeles (H)" tvg-logo="https://logo.m3uassets.com/ktlacw5losangeles.png" group-title="US Entertainment",US KTLA 5 Los Angeles (H)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/32653
 
 # ===== Canada | East - Toronto / Montreal =====
 #EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CBC Toronto (East)" tvg-logo="https://logo.m3uassets.com/cbc.png" group-title="Canada | East - Toronto / Montreal",CBC Toronto (East)
