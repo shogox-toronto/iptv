@@ -355,73 +355,10 @@ https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/700001345
 
 # ===== All: MLB =====
 
-#EXTINF:-1 tvg-id="MLBNetwork.us" group-title="All: MLB",MLB Network (US)
-http://YOUR_STREAM_URL/mlb_network
-
-#EXTINF:-1 tvg-id="MLBStrikeZone.us" group-title="All: MLB",MLB Strike Zone (US)
-http://YOUR_STREAM_URL/mlb_strike_zone
-
-#EXTINF:-1 tvg-id="YESNetwork.us" group-title="All: MLB",YES Network - Yankees
-http://YOUR_STREAM_URL/yes_network
-
-#EXTINF:-1 tvg-id="SNY.us" group-title="All: MLB",SportsNet New York SNY - Mets
-http://YOUR_STREAM_URL/sny
-
-#EXTINF:-1 tvg-id="NESN.us" group-title="All: MLB",NESN - Red Sox
-http://YOUR_STREAM_URL/nesn
-
-#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us" group-title="All: MLB",Marquee Sports Network - Cubs
-http://YOUR_STREAM_URL/marquee_sports
-
-#EXTINF:-1 tvg-id="SportsNetLA.us" group-title="All: MLB",SportsNet LA - Dodgers
-http://YOUR_STREAM_URL/sportsnet_la
-
-#EXTINF:-1 tvg-id="MASN.us" group-title="All: MLB",MASN - Orioles/Nationals
-http://YOUR_STREAM_URL/masn
 
 #EXTINF:-1 tvg-id="RootSportsNorthwest.us" group-title="All: MLB",Root Sports Northwest - Mariners
-http://YOUR_STREAM_URL/root_sports_northwest
-
-#EXTINF:-1 tvg-id="NBCSportsBayArea.us" group-title="All: MLB",NBC Sports Bay Area - Giants
-http://YOUR_STREAM_URL/nbc_sports_bay_area
-
-#EXTINF:-1 tvg-id="NBCSportsCalifornia.us" group-title="All: MLB",NBC Sports California - Athletics
-http://YOUR_STREAM_URL/nbc_sports_california
-
-#EXTINF:-1 tvg-id="BallySportsDetroit.us" group-title="All: MLB",Bally Sports Detroit - Tigers
-http://YOUR_STREAM_URL/bally_detroit
-
-#EXTINF:-1 tvg-id="BallySportsFlorida.us" group-title="All: MLB",Bally Sports Florida - Marlins/Rays
-http://YOUR_STREAM_URL/bally_florida
-
-#EXTINF:-1 tvg-id="BallySportsGreatLakes.us" group-title="All: MLB",Bally Sports Great Lakes - Guardians
-http://YOUR_STREAM_URL/bally_great_lakes
-
-#EXTINF:-1 tvg-id="BallySportsKansasCity.us" group-title="All: MLB",Bally Sports Kansas City - Royals
-http://YOUR_STREAM_URL/bally_kansas_city
-
-#EXTINF:-1 tvg-id="BallySportsNorth.us" group-title="All: MLB",Bally Sports North - Twins
-http://YOUR_STREAM_URL/bally_north
-
-#EXTINF:-1 tvg-id="BallySportsOhio.us" group-title="All: MLB",Bally Sports Ohio - Reds
-http://YOUR_STREAM_URL/bally_ohio
-
-#EXTINF:-1 tvg-id="BallySportsSanDiego.us" group-title="All: MLB",Bally Sports San Diego - Padres
-http://YOUR_STREAM_URL/bally_san_diego
-
-#EXTINF:-1 tvg-id="BallySportsSouth.us" group-title="All: MLB",Bally Sports South - Braves
-http://YOUR_STREAM_URL/bally_south
-
-#EXTINF:-1 tvg-id="BallySportsSouthwest.us" group-title="All: MLB",Bally Sports Southwest - Rangers
-http://YOUR_STREAM_URL/bally_southwest
-
-#EXTINF:-1 tvg-id="BallySportsSun.us" group-title="All: MLB",Bally Sports Sun - Rays
-http://YOUR_STREAM_URL/bally_sun
-
-#EXTINF:-1 tvg-id="BallySportsWest.us" group-title="All: MLB",Bally Sports West - Angels
-http://YOUR_STREAM_URL/bally_west
-
-
+#EXTINF:-1 tvg-id="" tvg-name="MLB 24: Yankees vs Rangers (Away) (04.28 8:05PM ET)" tvg-logo="" group-title="MLB Baseball league",MLB 24: Yankees vs Rangers (Away) (04.28 8:05PM ET)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200173724
 
 # ===== USA | East Coast - New York =====
 #EXTINF:-1 tvg-id="abcwabc.us" tvg-name="ABC 7 WABC New York (East)" tvg-logo="https://logo.m3uassets.com/newyorkabc7.png" group-title="USA | East Coast - New York",ABC 7 WABC New York (East)
