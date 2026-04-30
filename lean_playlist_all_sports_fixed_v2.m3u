@@ -349,17 +349,6 @@ https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/700001343
 #EXTINF:-1 tvg-id="" tvg-name="(CA) (PRIME) TSN5 (HD)" tvg-logo="https://logo.m3uassets.com/tsn5.png" group-title="All: Canada Sports",(CA) (PRIME) TSN5 (HD)
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/700001345
 
-# ===== All: MLB =====
-
-#EXTM3U
-
-# ===== All: MLB =====
-
-
-#EXTINF:-1 tvg-id="RootSportsNorthwest.us" group-title="All: MLB",Root Sports Northwest - Mariners
-#EXTINF:-1 tvg-id="" tvg-name="MLB 24: Yankees vs Rangers (Away) (04.28 8:05PM ET)" tvg-logo="" group-title="MLB Baseball league",MLB 24: Yankees vs Rangers (Away) (04.28 8:05PM ET)
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200173724
-
 # ===== USA | East Coast - New York =====
 #EXTINF:-1 tvg-id="abcwabc.us" tvg-name="ABC 7 WABC New York (East)" tvg-logo="https://logo.m3uassets.com/newyorkabc7.png" group-title="USA | East Coast - New York",ABC 7 WABC New York (East)
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/8642
@@ -412,8 +401,6 @@ https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200163600
 #EXTINF:-1 tvg-id="cp24.ca" tvg-name="CP24 Toronto (East)" tvg-logo="https://logo.m3uassets.com/cp24.png" group-title="Canada | East - Toronto / Montreal",CP24 Toronto (East)
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200158285
 
-# ===== Canada | Central - Winnipeg / Saskatchewan =====
-
 # ===== Canada | West - Vancouver / Calgary =====
 #EXTINF:-1 tvg-id="" tvg-name="CBC Vancouver (West)" tvg-logo="https://logo.m3uassets.com/cbcvancouver.png" group-title="Canada | West - Vancouver / Calgary",CBC Vancouver (West)
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400113785
@@ -433,8 +420,7 @@ https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400125112
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400125098
 
 # ===== 24/7 | Jurassic Park =====
-#EXTINF:-1 tvg-id="24/7 Jurassic World Chaos Theory S03 [VIP]" tvg-name="Jurassic Park 24/7 (English)" group-title="24/7 | Jurassic Park",Jurassic Park 24/7 (English)
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/800000090
+
 #EXTINF:-1 tvg-id="24/7 Jurassic Park [VIP]" tvg-name="Jurassic Park 24/7 (English) Backup 2" tvg-logo="https://logo.m3uassets.com/247jurassicpark.png" group-title="24/7 | Jurassic Park",Jurassic Park 24/7 (English) Backup 2
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/800000600
 
@@ -458,44 +444,3 @@ https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200165081
 #EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="BBC News (UK)" tvg-logo="https://logo.m3uassets.com/bbcnews.png" group-title="UK | Essentials",BBC News (UK)
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200164900
 
-# ===== USA | National Sports Essentials =====
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN2 (US)" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="USA | National Sports Essentials",ESPN2 (US)
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200163457
-#EXTINF:-1 tvg-id="" tvg-name="ESPN2 (US) Backup 2" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="USA | National Sports Essentials",ESPN2 (US) Backup 2
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400125040
-#EXTINF:-1 tvg-id="" tvg-name="ESPNews (US)" tvg-logo="https://logo.m3uassets.com/espnnews.png" group-title="USA | National Sports Essentials",ESPNews (US)
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400125043
-#EXTINF:-1 tvg-id="" tvg-name="FS1 (US)" group-title="USA | National Sports Essentials",FS1 (US)
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/500000756
-#EXTINF:-1 tvg-id="" tvg-name="FS1 (US) Backup 2" group-title="USA | National Sports Essentials",FS1 (US) Backup 2
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/700010737
-#EXTINF:-1 tvg-id="" tvg-name="FS2 (US)" group-title="USA | National Sports Essentials",FS2 (US)
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/700010738
-#EXTINF:-1 tvg-id="" tvg-name="FS2 (US) Backup 2" group-title="USA | National Sports Essentials",FS2 (US) Backup 2
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/500000757
-#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS Sports Network (US)" tvg-logo="https://logo.m3uassets.com/cbssportsnetwork.png" group-title="USA | National Sports Essentials",CBS Sports Network (US)
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200151233
-#EXTINF:-1 tvg-id="" tvg-name="CBS Sports Network (US) Backup 2" tvg-logo="https://logo.m3uassets.com/cbssportsnetwork.png" group-title="USA | National Sports Essentials",CBS Sports Network (US) Backup 2
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400125038
-#EXTINF:-1 tvg-id="" tvg-name="NFL Network (US)" tvg-logo="https://logo.m3uassets.com/nflnetwork.png" group-title="USA | National Sports Essentials",NFL Network (US)
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/113419
-#EXTINF:-1 tvg-id="" tvg-name="NFL Network (US) Backup 2" tvg-logo="https://logo.m3uassets.com/nflnetwork.png" group-title="USA | National Sports Essentials",NFL Network (US) Backup 2
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/125405
-#EXTINF:-1 tvg-id="" tvg-name="NFL RedZone (US)" tvg-logo="https://logo.m3uassets.com/nflredzone.png" group-title="USA | National Sports Essentials",NFL RedZone (US)
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/107488
-#EXTINF:-1 tvg-id="" tvg-name="NFL RedZone (US) Backup 2" tvg-logo="https://logo.m3uassets.com/nflredzone.png" group-title="USA | National Sports Essentials",NFL RedZone (US) Backup 2
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/125407
-#EXTINF:-1 tvg-id="nbatv.us" tvg-name="NBA TV (US)" tvg-logo="https://logo.m3uassets.com/nbatv.png" group-title="USA | National Sports Essentials",NBA TV (US)
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200163467
-#EXTINF:-1 tvg-id="NBATV" tvg-name="NBA TV (US) Backup 2" tvg-logo="https://logo.m3uassets.com/nbatv.png" group-title="USA | National Sports Essentials",NBA TV (US) Backup 2
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400139408
-#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="NHL Network (US)" tvg-logo="https://logo.m3uassets.com/nhlnetwork.png" group-title="USA | National Sports Essentials",NHL Network (US)
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200151373
-#EXTINF:-1 tvg-id="" tvg-name="NHL Network (US) Backup 2" tvg-logo="https://logo.m3uassets.com/nhlnetwork.png" group-title="USA | National Sports Essentials",NHL Network (US) Backup 2
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400124981
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel (US)" group-title="USA | National Sports Essentials",Golf Channel (US)
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/158316
-#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel (US)" tvg-logo="https://logo.m3uassets.com/tennischannel.png" group-title="USA | National Sports Essentials",Tennis Channel (US)
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400125102
-#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel (US) Backup 2" tvg-logo="https://logo.m3uassets.com/tennischannel.png" group-title="USA | National Sports Essentials",Tennis Channel (US) Backup 2
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/120143
