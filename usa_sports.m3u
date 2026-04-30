@@ -1,0 +1,24 @@
+#EXTM3U
+
+# ===== USA | National Sports Essentials =====
+
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN2 (US)" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="USA | National Sports Essentials",ESPN2 (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200163457
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2 (US) Backup 2" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="USA | National Sports Essentials",ESPN2 (US) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400125040
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPNews (US)" tvg-logo="https://logo.m3uassets.com/espnnews.png" group-title="USA | National Sports Essentials",ESPNews (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400125043
+
+#EXTINF:-1 tvg-id="" tvg-name="FS1 (US)" group-title="USA | National Sports Essentials",FS1 (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/500000756
+
+#EXTINF:-1 tvg-id="" tvg-name="FS1 (US) Backup 2" group-title="USA | National Sports Essentials",FS1 (US) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/700010737
+
+#EXTINF:-1 tvg-id="" tvg-name="FS2 (US)" group-title="USA | National Sports Essentials",FS2 (US)
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/700010738
+
+#EXTINF:-1 tvg-id="" tvg-name="FS2 (US) Backup 2" group-title="USA | National Sports Essentials",FS2 (US) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/500000757
