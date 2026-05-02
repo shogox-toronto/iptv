@@ -1,99 +1,99 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="(CA) (CITY) CityNews Toronto (FHD)" tvg-logo="https://logo.m3uassets.com/citynewstoronto.png" group-title="Canada | News",(CA) (CITY) CityNews Toronto (FHD)
+#EXTINF:-1 tvg-id="" tvg-name="(CA) (CITY) CityNews Toronto (FHD)" tvg-logo="https://logo.m3uassets.com/citynewstoronto.png" group-title="News | News",(CA) (CITY) CityNews Toronto (FHD)
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/154624
-#EXTINF:-1 tvg-id="" tvg-name="(US) (Prime) CBC News" tvg-logo="" group-title="Canada | News",(US) (Prime) CBC News
+#EXTINF:-1 tvg-id="" tvg-name="(US) (Prime) CBC News" tvg-logo="" group-title="News | News",(US) (Prime) CBC News
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/700019962
-#EXTINF:-1 tvg-id="cbcnews.ca" tvg-name="CA: CBC News" tvg-logo="https://logo.m3uassets.com/cbcnews.png" group-title="Canada | News",CBC News
+#EXTINF:-1 tvg-id="cbcnews.ca" tvg-name="CA: CBC News" tvg-logo="https://logo.m3uassets.com/cbcnews.png" group-title="News | News",CBC News
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200158266
-#EXTINF:-1 tvg-id="" tvg-name="CA: CBC NEWS HD" tvg-logo="https://logo.m3uassets.com/cbcnews.png" group-title="Canada | News",CBC NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC NEWS HD" tvg-logo="https://logo.m3uassets.com/cbcnews.png" group-title="News | News",CBC NEWS HD
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400113783
-#EXTINF:-1 tvg-id="" tvg-name="CA: CityNews" tvg-logo="" group-title="Canada | News",CityNews
+#EXTINF:-1 tvg-id="" tvg-name="CA: CityNews" tvg-logo="" group-title="News | News",CityNews
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/500000483
-#EXTINF:-1 tvg-id="cnn.ca" tvg-name="CA: CNN" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="Canada | News",CNN
+#EXTINF:-1 tvg-id="cnn.ca" tvg-name="CA: CNN" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="News | News",CNN
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200158281
-#EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA: CP24 HD" tvg-logo="https://logo.m3uassets.com/cp24.png" group-title="Canada | News",CP24 HD
+#EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA: CP24 HD" tvg-logo="https://logo.m3uassets.com/cp24.png" group-title="News | News",CP24 HD
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200158285
-#EXTINF:-1 tvg-id="" tvg-name="CA: CP24 HD" tvg-logo="https://logo.m3uassets.com/cp24.png" group-title="Canada | News",CP24 HD
+#EXTINF:-1 tvg-id="" tvg-name="CA: CP24 HD" tvg-logo="https://logo.m3uassets.com/cp24.png" group-title="News | News",CP24 HD
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400113791
-#EXTINF:-1 tvg-id="ctvnews.ca" tvg-name="CA: CTV News" tvg-logo="https://logo.m3uassets.com/ctvnews.png" group-title="Canada | News",CTV News
+#EXTINF:-1 tvg-id="ctvnews.ca" tvg-name="CA: CTV News" tvg-logo="https://logo.m3uassets.com/ctvnews.png" group-title="News | News",CTV News
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200158309
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="CA: FOX News" tvg-logo="https://logo.m3uassets.com/foxnews.png" group-title="Canada | News",FOX News
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="CA: FOX News" tvg-logo="https://logo.m3uassets.com/foxnews.png" group-title="News | News",FOX News
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200158325
-#EXTINF:-1 tvg-id="" tvg-name="CA: The Weather Network" tvg-logo="" group-title="Canada | News",The Weather Network
+#EXTINF:-1 tvg-id="" tvg-name="CA: The Weather Network" tvg-logo="" group-title="News | News",The Weather Network
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/500000447
-#EXTINF:-1 tvg-id="Weather.Network.(CWEA).ca2" tvg-name="CA: Weather Network" tvg-logo="https://logo.m3uassets.com/weathernetwork.png" group-title="Canada | News",Weather Network
+#EXTINF:-1 tvg-id="Weather.Network.(CWEA).ca2" tvg-name="CA: Weather Network" tvg-logo="https://logo.m3uassets.com/weathernetwork.png" group-title="News | News",Weather Network
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200158387
-#EXTINF:-1 tvg-id="" tvg-name="(SP2) US SPECTRUM NEWS   NY1" tvg-logo="https://logo.m3uassets.com/spectrumnewsny1.png" group-title="USA | News",(SP2) US SPECTRUM NEWS   NY1
+#EXTINF:-1 tvg-id="" tvg-name="(SP2) US SPECTRUM NEWS   NY1" tvg-logo="https://logo.m3uassets.com/spectrumnewsny1.png" group-title="News | News",(SP2) US SPECTRUM NEWS   NY1
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/140529
-#EXTINF:-1 tvg-id="" tvg-name="(SP2) US Spectrum News NY1" tvg-logo="https://logo.m3uassets.com/spectrumnewsny1.png" group-title="USA | News",(SP2) US Spectrum News NY1
+#EXTINF:-1 tvg-id="" tvg-name="(SP2) US Spectrum News NY1" tvg-logo="https://logo.m3uassets.com/spectrumnewsny1.png" group-title="News | News",(SP2) US Spectrum News NY1
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/140585
-#EXTINF:-1 tvg-id="" tvg-name="(TO) Newsmax" tvg-logo="https://logo.m3uassets.com/newsmax.png" group-title="USA | News",(TO) Newsmax
+#EXTINF:-1 tvg-id="" tvg-name="(TO) Newsmax" tvg-logo="https://logo.m3uassets.com/newsmax.png" group-title="News | News",(TO) Newsmax
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/138915
-#EXTINF:-1 tvg-id="" tvg-name="(US) (FOX1) Fox News (FNC)" tvg-logo="https://logo.m3uassets.com/foxnews.png" group-title="USA | News",(US) (FOX1) Fox News (FNC)
+#EXTINF:-1 tvg-id="" tvg-name="(US) (FOX1) Fox News (FNC)" tvg-logo="https://logo.m3uassets.com/foxnews.png" group-title="News | News",(US) (FOX1) Fox News (FNC)
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/700010741
 #EXTINF:-1 tvg-id="" tvg-name="(US) (Prime) AccuWeather NOW" tvg-logo="" group-title="USA | Weather / News",(US) (Prime) AccuWeather NOW
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/700019959
-#EXTINF:-1 tvg-id="" tvg-name="(US) (Prime) CNN Headlines" tvg-logo="" group-title="USA | News",(US) (Prime) CNN Headlines
+#EXTINF:-1 tvg-id="" tvg-name="(US) (Prime) CNN Headlines" tvg-logo="" group-title="News | News",(US) (Prime) CNN Headlines
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/700019948
-#EXTINF:-1 tvg-id="" tvg-name="(US) (Prime) FOX News Channel" tvg-logo="" group-title="USA | News",(US) (Prime) FOX News Channel
+#EXTINF:-1 tvg-id="" tvg-name="(US) (Prime) FOX News Channel" tvg-logo="" group-title="News | News",(US) (Prime) FOX News Channel
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/700020665
-#EXTINF:-1 tvg-id="" tvg-name="(US) (Prime) FOX News Talk" tvg-logo="" group-title="USA | News",(US) (Prime) FOX News Talk
+#EXTINF:-1 tvg-id="" tvg-name="(US) (Prime) FOX News Talk" tvg-logo="" group-title="News | News",(US) (Prime) FOX News Talk
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/700020753
 #EXTINF:-1 tvg-id="" tvg-name="(US) (RK) AccuWeather NOW" tvg-logo="https://logo.m3uassets.com/accuweathernow.png" group-title="USA | Weather / News",(US) (RK) AccuWeather NOW
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/700002719
-#EXTINF:-1 tvg-id="" tvg-name="(US) Fox News (S)" tvg-logo="" group-title="USA | News",(US) Fox News (S)
+#EXTINF:-1 tvg-id="" tvg-name="(US) Fox News (S)" tvg-logo="" group-title="News | News",(US) Fox News (S)
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/158315
 #EXTINF:-1 tvg-id="" tvg-name="(US) Weather Channel (S)" tvg-logo="" group-title="USA | Weather / News",(US) Weather Channel (S)
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/158059
-#EXTINF:-1 tvg-id="KTLA.(KTLA).us" tvg-name="CW: 5 LOS ANGELES KTLA HD" tvg-logo="https://logo.m3uassets.com/ktlacw5losangeles.png" group-title="USA | News",CW: 5 LOS ANGELES KTLA HD
+#EXTINF:-1 tvg-id="KTLA.(KTLA).us" tvg-name="CW: 5 LOS ANGELES KTLA HD" tvg-logo="https://logo.m3uassets.com/ktlacw5losangeles.png" group-title="News | News",CW: 5 LOS ANGELES KTLA HD
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400381942
-#EXTINF:-1 tvg-id="cnn.uk" tvg-name="UK: CNN" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="USA | News",UK: CNN
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="UK: CNN" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="News | News",UK: CNN
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200164945
-#EXTINF:-1 tvg-id="CNN.ba" tvg-name="UK: CNN FHD" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="USA | News",UK: CNN FHD
+#EXTINF:-1 tvg-id="CNN.ba" tvg-name="UK: CNN FHD" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="News | News",UK: CNN FHD
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400117844
-#EXTINF:-1 tvg-id="" tvg-name="UKFHD: CNN" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="USA | News",UKFHD: CNN
+#EXTINF:-1 tvg-id="" tvg-name="UKFHD: CNN" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="News | News",UKFHD: CNN
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/600003275
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="US CNN (H)" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="USA | News",US CNN (H)
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="US CNN (H)" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="News | News",US CNN (H)
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/23047
-#EXTINF:-1 tvg-id="" tvg-name="US CNN International (H)" tvg-logo="https://logo.m3uassets.com/cnninternational.png" group-title="USA | News",US CNN International (H)
+#EXTINF:-1 tvg-id="" tvg-name="US CNN International (H)" tvg-logo="https://logo.m3uassets.com/cnninternational.png" group-title="News | News",US CNN International (H)
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/23048
-#EXTINF:-1 tvg-id="" tvg-name="US Fox News Channel (A)" tvg-logo="https://logo.m3uassets.com/foxnewschannel.png" group-title="USA | News",US Fox News Channel (A)
+#EXTINF:-1 tvg-id="" tvg-name="US Fox News Channel (A)" tvg-logo="https://logo.m3uassets.com/foxnewschannel.png" group-title="News | News",US Fox News Channel (A)
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/36155
-#EXTINF:-1 tvg-id="" tvg-name="US FOX News Channel (H)" tvg-logo="https://logo.m3uassets.com/foxnewschannel.png" group-title="USA | News",US FOX News Channel (H)
+#EXTINF:-1 tvg-id="" tvg-name="US FOX News Channel (H)" tvg-logo="https://logo.m3uassets.com/foxnewschannel.png" group-title="News | News",US FOX News Channel (H)
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/23052
-#EXTINF:-1 tvg-id="" tvg-name="US KTLA 5 Los Angeles (A)" tvg-logo="https://logo.m3uassets.com/ktlacw5losangeles.png" group-title="USA | News",US KTLA 5 Los Angeles (A)
+#EXTINF:-1 tvg-id="" tvg-name="US KTLA 5 Los Angeles (A)" tvg-logo="https://logo.m3uassets.com/ktlacw5losangeles.png" group-title="News | News",US KTLA 5 Los Angeles (A)
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/131503
-#EXTINF:-1 tvg-id="" tvg-name="US KTLA 5 Los Angeles (H)" tvg-logo="https://logo.m3uassets.com/ktlacw5losangeles.png" group-title="USA | News",US KTLA 5 Los Angeles (H)
+#EXTINF:-1 tvg-id="" tvg-name="US KTLA 5 Los Angeles (H)" tvg-logo="https://logo.m3uassets.com/ktlacw5losangeles.png" group-title="News | News",US KTLA 5 Los Angeles (H)
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/32653
 #EXTINF:-1 tvg-id="" tvg-name="US The Weather Channel (H)" tvg-logo="https://logo.m3uassets.com/theweatherchannel.png" group-title="USA | Weather / News",US The Weather Channel (H)
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/107500
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="US: CNN" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="USA | News",CNN
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US: CNN" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="News | News",CNN
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200163533
-#EXTINF:-1 tvg-id="" tvg-name="US: CNN FHD (Backup)" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="USA | News",CNN FHD (Backup)
+#EXTINF:-1 tvg-id="" tvg-name="US: CNN FHD (Backup)" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="News | News",CNN FHD (Backup)
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400397279
-#EXTINF:-1 tvg-id="cnninternational" tvg-name="US: CNN INTERNATIONAL HD" tvg-logo="https://logo.m3uassets.com/cnninternational.png" group-title="USA | News",CNN INTERNATIONAL HD
+#EXTINF:-1 tvg-id="cnninternational" tvg-name="US: CNN INTERNATIONAL HD" tvg-logo="https://logo.m3uassets.com/cnninternational.png" group-title="News | News",CNN INTERNATIONAL HD
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400124875
-#EXTINF:-1 tvg-id="" tvg-name="US: CW Los Angeles California KTLA TV" tvg-logo="" group-title="USA | News",CW Los Angeles California KTLA TV
+#EXTINF:-1 tvg-id="" tvg-name="US: CW Los Angeles California KTLA TV" tvg-logo="" group-title="News | News",CW Los Angeles California KTLA TV
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/500171820
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="US: FOX News" tvg-logo="https://logo.m3uassets.com/foxnews.png" group-title="USA | News",FOX News
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="US: FOX News" tvg-logo="https://logo.m3uassets.com/foxnews.png" group-title="News | News",FOX News
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200163534
-#EXTINF:-1 tvg-id="" tvg-name="US: Fox News Channel" tvg-logo="" group-title="USA | News",Fox News Channel
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox News Channel" tvg-logo="" group-title="News | News",Fox News Channel
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/500001611
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX NEWS FHD" tvg-logo="https://logo.m3uassets.com/foxnews.png" group-title="USA | News",FOX NEWS FHD
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX NEWS FHD" tvg-logo="https://logo.m3uassets.com/foxnews.png" group-title="News | News",FOX NEWS FHD
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400395530
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX NEWS HD" tvg-logo="https://logo.m3uassets.com/foxnews.png" group-title="USA | News",FOX NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX NEWS HD" tvg-logo="https://logo.m3uassets.com/foxnews.png" group-title="News | News",FOX NEWS HD
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400124878
-#EXTINF:-1 tvg-id="ktla.us" tvg-name="US: KTLA" tvg-logo="https://logo.m3uassets.com/ktla.png" group-title="USA | News",KTLA
+#EXTINF:-1 tvg-id="ktla.us" tvg-name="US: KTLA" tvg-logo="https://logo.m3uassets.com/ktla.png" group-title="News | News",KTLA
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200253879
-#EXTINF:-1 tvg-id="msnbc.us" tvg-name="US: MS Now" tvg-logo="https://logo.m3uassets.com/msnbc.png" group-title="USA | News",MS Now
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="US: MS Now" tvg-logo="https://logo.m3uassets.com/msnbc.png" group-title="News | News",MS Now
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200163537
-#EXTINF:-1 tvg-id="" tvg-name="US: MSNBC FHD" tvg-logo="https://logo.m3uassets.com/msnbc.png" group-title="USA | News",MSNBC FHD
+#EXTINF:-1 tvg-id="" tvg-name="US: MSNBC FHD" tvg-logo="https://logo.m3uassets.com/msnbc.png" group-title="News | News",MSNBC FHD
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400124882
 #EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="US: The Weather Channel" tvg-logo="https://logo.m3uassets.com/theweatherchannel.png" group-title="USA | Weather / News",The Weather Channel
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200151450
 #EXTINF:-1 tvg-id="" tvg-name="US: THE WEATHER CHANNEL HD" tvg-logo="https://logo.m3uassets.com/theweatherchannel.png" group-title="USA | Weather / News",THE WEATHER CHANNEL HD
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400124892
-#EXTINF:-1 tvg-id="" tvg-name="USA  THE WEATHER CHANNEL HD" tvg-logo="https://logo.m3uassets.com/theweatherchannel.png" group-title="USA | Weather / News",USA  THE WEATHER CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="USA  THE WEATHER CHANNEL HD" tvg-logo="https://logo.m3uassets.com/theweatherchannel.png" group-title="News",USA  THE WEATHER CHANNEL HD
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/600001141
-#EXTINF:-1 tvg-id="" tvg-name="USA FHD: AccuWeather" tvg-logo="https://logo.m3uassets.com/accuweather.png" group-title="USA | Weather / News",USA FHD: AccuWeather
+#EXTINF:-1 tvg-id="" tvg-name="USA FHD: AccuWeather" tvg-logo="https://logo.m3uassets.com/accuweather.png" group-title="News",USA FHD: AccuWeather
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/600004137
