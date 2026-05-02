@@ -1,5 +1,9 @@
 #EXTM3U
 
+# ===== 24/7 | Jurassic Park =====
+
+#EXTINF:-1 tvg-id="24/7 Jurassic Park [VIP]" tvg-name="Jurassic Park 24/7 (English) Backup 2" tvg-logo="https://logo.m3uassets.com/247jurassicpark.png" group-title="24/7 | Jurassic Park",Jurassic Park 24/7 (English) Backup 2
+https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/800000600
 
 # ===== USA | East Coast - New York =====
 #EXTINF:-1 tvg-id="abcwabc.us" tvg-name="ABC 7 WABC New York (East)" tvg-logo="https://logo.m3uassets.com/newyorkabc7.png" group-title="USA | East Coast - New York",ABC 7 WABC New York (East)
@@ -61,20 +65,16 @@ https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200158307
 #EXTINF:-1 tvg-id="citytvvancouverqc.ca" tvg-name="Citytv Vancouver (West)" tvg-logo="https://logo.m3uassets.com/citytvvancouver.png" group-title="Canada | West - Vancouver / Calgary",Citytv Vancouver (West)
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200158279
 
-# ===== New York | Specialty =====
-#EXTINF:-1 tvg-id="" tvg-name="Spectrum News NY1 (New York)" tvg-logo="https://logo.m3uassets.com/spectrumnewsny1.png" group-title="New York | Specialty",Spectrum News NY1 (New York)
+# ===== New York | NY1 =====
+#EXTINF:-1 tvg-id="" tvg-name="Spectrum News NY1 (New York)" tvg-logo="https://logo.m3uassets.com/spectrumnewsny1.png" group-title="New York | NY1",Spectrum News NY1 (New York)
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/140529
-#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="YES Network (Yankees)" tvg-logo="https://logo.m3uassets.com/yesnetwork.png" group-title="New York | Specialty",YES Network (Yankees)
+
+
+# ===== New York | YES =====
+#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="YES Network (Yankees)" tvg-logo="https://logo.m3uassets.com/yesnetwork.png" group-title="New York | YES",YES Network (Yankees)
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/200155102
-#EXTINF:-1 tvg-id="" tvg-name="YES Network (Yankees) Backup 2" tvg-logo="https://logo.m3uassets.com/yesnetwork.png" group-title="New York | Specialty",YES Network (Yankees) Backup 2
+#EXTINF:-1 tvg-id="" tvg-name="YES Network (Yankees) Backup 2" tvg-logo="https://logo.m3uassets.com/yesnetwork.png" group-title="New York | YES",YES Network (Yankees) Backup 2
 https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400125112
-#EXTINF:-1 tvg-id="" tvg-name="SportsNet New York SNY" tvg-logo="https://logo.m3uassets.com/sportsnetnewyork.png" group-title="New York | Specialty",SportsNet New York SNY
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/400125098
-
-# ===== 24/7 | Jurassic Park =====
-
-#EXTINF:-1 tvg-id="24/7 Jurassic Park [VIP]" tvg-name="Jurassic Park 24/7 (English) Backup 2" tvg-logo="https://logo.m3uassets.com/247jurassicpark.png" group-title="24/7 | Jurassic Park",Jurassic Park 24/7 (English) Backup 2
-https://thunderbolt-40gbps.com/live/pvjnvV1C/NfsvtR7Z/800000600
 
 # ===== UK | Essentials =====
 #EXTINF:-1 tvg-id="bbcone" tvg-name="BBC One (UK)" tvg-logo="https://logo.m3uassets.com/bbcone.png" group-title="UK | Essentials",BBC One (UK)
